@@ -294,10 +294,21 @@ Two reasons:
   Shomer (Middle-English gatekeeper; "Brightsheol is the dream") →
   What's at the Top (signal, Seraph, starship) → The Question
   (Iseppa). Teed up Brightsheol's interior + the final choice as Ep5.
-- [ ] Future candidates: The Mechanimist Faith (75-page scripture
-  deep-dive), The Coven & Folk Clock, The Coda (Inheritor Godling),
-  How Qud Generates Its Own History (M6 synthesis as a script),
-  Haddas the tree-mayor of Ezra (technically an Eater).
+- [x] **Episode 5: Brightsheol and the Coda — The Four Fates of Qud**
+  — written, ~3800 words, ~26 min runtime, the series finale. Saved
+  to [`scripts/05_brightsheol_and_the_coda.md`](scripts/05_brightsheol_and_the_coda.md).
+  Per-section visual table points at the **downloaded** local assets
+  in `corpus/visual_assets/05_brightsheol/`. Structure: Cold Open
+  (crossing into Brightsheol) → The Dream-City → The Seraph Speaks
+  (the confession) → The Arguments → "I Subsumed Them" (the payoff:
+  Resheph admits he overrode the Rebekah + Barathrum scans) → The
+  Four Fates (Covenant/Return/Accession/Starfarer) → The Coda (the
+  Inheritor Godling + Fool of the Gyre, four variants) → What Became
+  of the Nephilim → The Question (series close).
+- [ ] Future / bonus candidates: The Mechanimist Faith (scripture
+  deep-dive), The Coven & Folk Clock, "How Qud Generates Its Own
+  History" (M6 synthesis as a script), Haddas the tree-mayor of Ezra,
+  the Putus Templar, character studies (Q Girl, Hortensa, Otho).
 
 ---
 
@@ -305,7 +316,48 @@ Two reasons:
 
 Append each session. Newest at top. Date in absolute form.
 
-### 2026-05-20 (cont.) — Episode 4 (The Spindle) written + visual assets
+### 2026-05-20 (cont.) — Visual assets DOWNLOADED + Episode 5 (finale)
+
+- **Downloaded 61 wiki images** (the user asked for actual downloads,
+  not links). The wiki blocks the WebFetch tool's UA, but curl/urllib
+  with a browser UA over the MediaWiki `Special:FilePath` endpoint
+  works (HTTP 200). Wrote `extractors/download_wiki_assets.py` — a
+  curated per-episode downloader — and pulled tiles + screenshots
+  into `corpus/visual_assets/{00_common_locations,01_resheph,
+  02_barathrum,03_rebekah,04_spindle,05_brightsheol}/`. 736 KB total,
+  all verified as real PNGs (visually spot-checked the Resheph statue
+  and the Brightsheol gate). MANIFEST.md maps each file to its wiki
+  source page. Updated Episode 4's visual note to point at the local
+  files. Committed `3b4ebb1`.
+- **Episode 5 (finale) written + reviewed.** Investigated the endgame
+  hidden conversations first: Resheph (102 nodes — the full
+  confrontation, the four decision branches, "I SUBSUMED THEM",
+  "REMAIN AT THE SHEVA"), InheritorGodling + Fool (the Coda, four
+  ending-variants each), Shomer (Brightsheol), Iseppa (close).
+  - Review pass 1 (self): 3 fixes — softened a reconstructed
+    "five Sultans/sixth" count; clarified the Starfarer fate comes
+    via Barathrum's ship (not a Resheph decision-node option); and
+    🔴 un-spliced a §VIII Fool quote that had combined two lines from
+    DIFFERENT ending-variants (CovenantPC + ReturnPC) into one
+    attributed string — a strict-evidence violation. Now presented
+    as separate variant lines.
+  - Review pass 2: cold-eye verification agent — verdict NEEDS-EDITS
+    with only ONE 🔴 (the rest clean: all blockquotes verbatim, four
+    endings presented as a player menu, Fool quotes correctly
+    separated by variant, Starfarer correctly attributed to
+    Barathrum's ship, no save-mechanics narrated). 3 fixes applied:
+    - 🔴 §VII attached the verbatim "never vex the creatures of Qud
+      again" compact to "three of four endings," but that exact
+      pledge is only in Covenant + Starfarer (two). Return has a
+      different compact (ally to banish Resheph); Accession is an
+      alliance to doom the world. Corrected to "two," with a note on
+      the others. (Cross-checked against InheritorGodling.md:73, 137,
+      199, 259 myself.)
+    - 🔵 cold-open clipped "the Seraph dremen." — dropped the
+      sentence-final period on the mid-sentence fragment.
+    - 🔵 restored "of the Spindle" inside the Iseppa quotation
+      (verbatim fidelity) while keeping the generalizing gloss.
+  - Result: the finale is citation-clean. Series complete (5 of 5).
 
 - Investigated the Spindle corpus before drafting (concordance: 115
   mentions). Read the key new sources: Asphodel (the self-proclaimed
