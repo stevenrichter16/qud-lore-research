@@ -35,9 +35,9 @@ on every word — is a *gift*: this being is condescending to use a
 language the human mind can contain at all.
 
 This is Resheph. Sultan of the Late Sultanate. Healer of the seven
-plagues. The Coiled Lamb. The Above. The figure every Mechanimist
-preacher in Qud invokes in their sermons, every villager in Joppa
-prays to in their proverbs.
+plagues. The Coiled Lamb. The Above. The figure Mechanimist
+preachers invoke in their sermons, that villagers in Joppa name in
+their gospels.
 
 He is the Seraph who engineered the genocide of all life on the
 planet — and he is not done.
@@ -106,9 +106,9 @@ A snail farmer outside Joppa tells you:
 > *imagine it is so named?"*  
 > — *(conversation: SnailFarmer)*
 
-Resheph wrote gospels. Resheph named the Gyre. The plagues that
-ravaged Qud, that he heroically fought against — *Resheph named
-them.* Hold this thought.
+Resheph wrote gospels. Resheph wrote of the Gyre. The plagues
+that, in the public story, he heroically fought against — *appear
+in his own gospels.* Hold this thought.
 
 ---
 
@@ -132,10 +132,20 @@ his seal:
 > — *(conversation: Barathrum)*
 
 Why does a healer-king seal a tomb? What does the Tomb of the
-Eaters contain? Note the framing: *the Eaters.* The cannibal
-faction whose name the Sultanate's namelist is drawn from — every
-Sultan in Qud's history, including Resheph, has a name rolled from
-a list the game's namegen labels `"Eater"`.
+Eaters contain? Note the framing: *the Eaters.* In Qud's
+cosmology this is a precise term — *the Eaters of Earth*, the
+precursor civilization who built the Spindle, who entered into a
+covenant with "a great coven of beings that spanned the firmament"
+(Barathrum's own words), and who, according to him, "succumbed to
+some terrible temptation" — at which point an injunction was placed
+on the world and the Coven departed. The Sultanate that came later
+inherits this lineage in one small technical detail: every Sultan
+in Qud's history, including Resheph, has a name rolled from a list
+the game's namegen labels `"Eater"`. The Sultanate, in its bones,
+is an *Eater* institution. (There is also, separately, a modern
+cannibal faction in Qud known as the Eaters of the People — but
+their connection to the precursor Eaters of Earth is left
+ambiguous by the text.)
 
 A second loose thread, more poignant. The healer-priestess
 Yla Haj of Bey Lah, when you ask about exiles, tells you:
@@ -159,6 +169,16 @@ healer-king story:
 1. A healer-king sealed a tomb that takes the Mark of Death to enter.
 2. A healer-king cast out his own teacher, the physician Rebekah,
    and let her die alone.
+
+A third strangeness. The official record in Qud says Resheph is
+*dead.* If you find the Imperial Biographer — the keeper of the
+Sultanate's annals — and try to argue with him, he will say it
+flatly: *"The sultanate is dissolved. Resheph rules no longer."*
+And: *"But Resheph is dead. The sultanate is dissolved."*
+*(conversation: ImperialBiographer)* The dynasty ended, the Sultan
+was buried in his tomb at Omonporch, the era closed. Except, of
+course, that at the top of the Spindle something has been speaking
+in archaic English for ten thousand years, waiting for you.
 
 You might brush these off — every saint has a controversy, every
 ruler has an old grudge. Except.
@@ -256,10 +276,29 @@ removed. So that something fresh can grow in its place.
 > *waveform to a breathing gyre. Blights engineered to attack life*
 > *whilst preserving the planet's artifacts of glass and chrome."*
 
-The plagues are engineered. They are not natural. They are not
-ancient. They were *designed* — designed to kill people while
+The plagues — at least the deliberate ones — are engineered.
+They are not natural. They were *designed* to kill people while
 preserving the artifacts and infrastructure of the prior age.
-Resheph is not the savior of Qud. Resheph is its executioner.
+(Some pre-existing afflictions, like the salt itself, were
+absorbed into the Gyre's narrative after the fact; Resheph admits
+this much. But the engineered core is core.) Resheph is not the
+savior of Qud. Resheph is its executioner.
+
+And later, much later, Resheph himself will confirm it — without
+contrition, in his own archaic voice. Ascend the Spindle, ask him
+how the plagues came to be, and he answers:
+
+> **THE FIRST FROGS WERE REARED IN TERRARIA. THE NEPHILIM,**
+> **GRAFTED AND LIGHT-SMELT IN STAR ORBIT, THEN SET TO INCUBATE**
+> **UPON THE CRYSTAL STAIR.**  
+> — *(hidden conversation: Resheph)*
+
+*Reared. Grafted. Light-smelt. Set to incubate.* The Nephilim — the
+Girsh titans that Sultan Resheph supposedly drove under the earth
+a chiliad ago — were *built* in star orbit and set on the Moon
+Stair to ripen. The plagues are not metaphor. They are
+manufactured biology, confessed to in the first person by the
+Seraph who manufactured them.
 
 And the Gyre — the *gyre* that the snail farmer mused about,
 "from Resheph's gospels," the Gyre that the SnailFarmer didn't
@@ -317,43 +356,54 @@ And then, the next line:
 > *persona. Thus- the healer, the Coiled Lamb, and perhaps*
 > *unexpectedly, the Above."*
 
-The three public personas are *the same three minds.* The Healer
-is Rebekah, the physician. The Coiled Lamb is Barathrum, the
-gentle elder bear. The Above is the original Seraph, distant and
-cosmic. The Mechanimist faith is not myth that grew organically
-around a remarkable historical figure. It is *deliberately
-constructed marketing*, designed by Barathrum and Rebekah to give
-the Sultan-Resheph credibility while the long thousand-year
-healing work happened in the background.
+The game text never tells you which persona is which mind. But the
+inference is hard to resist. The Healer reads as Rebekah, who is
+canonically *a physician.* The Coiled Lamb — gentle, voluntary,
+sacrificial — reads as Barathrum, the elder bear who has stayed
+at Grit Gate for a thousand years to mend a world. The Above —
+distant, cosmic, transcendent — is the original Seraph who has
+never come down from the Spindle. Three minds in one body; three
+public personas, each one wearing the right face. The Mechanimist
+faith is not myth that grew organically around a remarkable
+historical figure. It is *deliberately constructed iconography*,
+authored by the same three principals it venerates, to give the
+Sultan-Resheph the credibility he needed while the long
+thousand-year healing work happened in the background.
 
 `[VISUAL: a Mechanimist preacher delivering a sermon in archaic
 robes. Camera holds on his face long enough to feel uneasy.]`
 
-And then, more terrible:
+Now the contradictions snap into place:
+- Why is the Tomb of the Eaters sealed with a Mark of Death? It
+  contains the truth the mythomold was built to bury.
+- Why was Rebekah exiled? She betrayed his plan. *"Resheph would*
+  *not forgive her trespass. She contracted the rotting tongue*
+  *while abetting the lepers."* And: *"Resheph would not let her*
+  *return home."*
+- Why do Mechanimist preachers invoke him with violent language?
+  *"In the name of Resheph, cleanse them of your flesh!"* — that
+  is the original plan, smiling out at you from a sermon, hidden in
+  plain sight because the people repeating it no longer know what
+  it means.
+
+The Coiled Lamb is a sacrificial image. It is not Resheph's body
+that was offered. It is the *idea* of Resheph — the public face,
+the cured-plague Sultan, the gentle Above — that was deliberately
+laid down to buy a thousand years.
+
+And then the line Barathrum delivers without flinching, the line
+that holds the whole video in one sentence:
 
 > *"And he was [a healer], of a sort. The cure for a plague is*
 > *often too its cause. With one's paws on the dials and drum of*
 > *power, history is a cloth to be loomspun."*
 
-The Sultan who cured the plagues was the Seraph who caused them.
-He healed the disease he had broadcast. He drove back the
+The Sultan who cured the plagues was the Seraph who broadcast
+them. He healed the disease he had built. He drove back the
 Nephilim he had seeded. He gave Qud a thousand years' breathing
-room because, having designed the genocide, he *could* design the
-respite.
-
-Now the contradictions snap into place:
-- Why is the Tomb of the Eaters sealed with a Mark of Death? It
-  contains the truth.
-- Why was Rebekah exiled? She betrayed his plan. *"Resheph would*
-  *not forgive her trespass. She contracted the rotting tongue*
-  *while abetting the lepers."* And: *"Resheph would not let her*
-  *return home."*
-- Why does every Mechanimist invoke him with violent language?
-  *"In the name of Resheph, cleanse them of your flesh!"* — that is
-  the original plan, smiling out at you from a sermon.
-
-The Coiled Lamb is a sacrificial image. Now you see whose body was
-on the altar.
+room because, having designed the genocide, he was the only being
+in the world who *could* design the respite. History is a cloth to
+be loomspun. The same hands wove both sides.
 
 ---
 
@@ -374,12 +424,13 @@ capitalized. Every line a stanza:
 > **BEFORE THEE. WHEREFORE ART THOU?**
 
 Notice the word *SIACH.* It is Hebrew — *siyaḥ* — meaning
-*meditation,* *discourse,* *a reed grove,* and in Kabbalistic
-mystical literature *a sphere of intermediation between the
-divine and the human.* Freehold did not pick this word
-arbitrarily. The Seraph is naming the medium through which it
-speaks. The *Great Siach* is the cosmological discourse-network
-inside which the player is currently transiting.
+*meditation,* *discourse,* *the speech of trees and reeds.* In the
+Kabbalistic literature the phrase *siyaḥ ha-saddeh*, "the talk of
+the field," refers to a contemplative mode of language used to
+address the divine. Freehold did not pick this word arbitrarily.
+The Seraph is naming the medium through which it speaks. The
+*Great Siach* is the cosmological discourse-network inside which
+the player is currently transiting.
 
 A line later, Resheph reflects on the plagues:
 
@@ -446,8 +497,14 @@ right after the procedural loop — there is one extra line of code:
 AddResheph(history);
 ```
 
-Resheph is the *only* named figure in Qud's history who survives
-across playthroughs. Every other Sultan rolls. Resheph is canon.
+Resheph is the only figure in Qud's procedurally-generated
+*Sultanate history* who is hardcoded. Every other Sultan in the
+timeline rolls. (Contemporary NPCs like Barathrum and Mehmet are
+also canon across playthroughs, of course — but they're placed in
+the present-day world directly, not added to the history Qud
+generates.) Resheph alone is both: a Sultan in the rolled
+timeline, *and* a present-day Seraph still waiting at the
+Spindle's apex. He is the bridge.
 
 The reason is, on the surface, mechanical: the Spindle questline
 needs him to exist, so the engine adds him. But take the design
@@ -496,12 +553,15 @@ wanted to escape into space with his apprentice.
 **Approximate runtime by section** (at ~165 wpm narration):
 - Cold Open: 1:30
 - I. Word on the Street: 3:30
-- II. Cracks in the Story: 3:00
-- III. What Barathrum Knows: 5:00
-- IV. Who is Resheph Now?: 4:00
+- II. Cracks in the Story: 4:00 _(after Imperial Biographer add)_
+- III. What Barathrum Knows: 5:30 _(after Resheph first-person confession add)_
+- IV. Who is Resheph Now?: 4:30 _(after loomspun restructure)_
 - V. Resheph's Voice: 2:30
 - VI. The Question: 2:30
-- **Total: ~22 min**
+- **Total: ~24 min**
+
+_Script revised 2026-05-20 after two review passes; see PLAN.md
+implementation log for the 8 corrections applied._
 
 **Citation cleanup before recording:**
 - Verify Yla Haj quote line 45 of [`YlaHaj.md`](../corpus/conversations/YlaHaj.md)

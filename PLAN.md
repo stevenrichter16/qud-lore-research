@@ -284,6 +284,36 @@ Two reasons:
 
 Append each session. Newest at top. Date in absolute form.
 
+### 2026-05-20 (cont.) — Script 1 reviewed and corrected
+
+Two review passes applied to `scripts/01_resheph_and_the_plagues.md`
+before declaring it ready to record:
+
+- **Pass 1 (self, gap-coverage):** found 5 issues. Most-significant:
+  the script presented the *triumvirate → three personas* mapping
+  (Healer=Rebekah, Lamb=Barathrum, Above=archon) as gospel when the
+  game text never explicitly states it — it's a defensible inference
+  but had to be marked as such. Also: missing Resheph's own
+  first-person plague-engineering confession (`Resheph.md:1083` had
+  it sitting right there); thin Section II that should include the
+  Imperial Biographer's "Resheph is dead" crack; SIACH etymology
+  overreached toward Kabbalistic *sefirot* when it should stick to
+  *siyaḥ ha-saddeh*; Section IV closer was rhetorically weak.
+- **Pass 2 (self, cold-eye adversarial):** found 5 more issues. The
+  largest: 🔴 *Eaters conflation* — the script collapsed "Eaters of
+  Earth" (the precursor civilization, of whom Resheph the Seraph is
+  one) with "Eaters of the People" (a contemporary cannibal faction).
+  These are distinct entities; the Sultanate's `"Eater"` namelist
+  ties to the precursor, not the cannibals. Also: 🟡 "not ancient"
+  overclaimed plague-engineering when Resheph admits some pre-existing
+  afflictions were folded into the Gyre narrative after the fact; 🔵
+  "only named figure in Qud's history" needed to specify "in the
+  Sultanate history" since Barathrum + Mehmet are also canon across
+  playthroughs.
+- **8 edits applied** (some review items collapsed into one edit
+  where they overlapped). Script is now ~24 min runtime, citations
+  audit-clean. Production notes updated.
+
 ### 2026-05-20 (cont.) — First script written
 
 - Picked Resheph as the first episode (Elder-Scrolls-archetype
