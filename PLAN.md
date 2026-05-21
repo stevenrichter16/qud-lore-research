@@ -258,31 +258,104 @@ Two reasons:
 
 ### M8 — Video script drafts _🟡 in progress 2026-05-20_
 
-- [x] **Episode 1: Resheph and the Plagues** — written, ~3300 words,
-  target ~22 min runtime. Saved to
+- [x] **Episode 1: Resheph and the Plagues** — written + revised after
+  two review passes. ~3500 words, ~24 min runtime. Saved to
   [`scripts/01_resheph_and_the_plagues.md`](scripts/01_resheph_and_the_plagues.md).
-  Six-section structure (Cold Open → The Word on the Street →
-  Cracks in the Story → What Barathrum Knows → Who Is Resheph Now? →
-  The Question). Every quote is verbatim from the corpus with file
-  references; the closing beat cites the hardcoded `AddResheph(history)`
-  call at `QudHistoryFactory.cs:119` from M6 research.
-- [ ] Episode 2 candidate: **Barathrum: The Bear Who Failed** — natural
-  follow-up; the script explicitly teases it. Material:
-  [`corpus/topic_index/Barathrum.md`](corpus/topic_index/Barathrum.md)
-  + [`corpus/conversations_hidden/Barathrum.md`](corpus/conversations_hidden/Barathrum.md).
-- [ ] Episode 3 candidate: **The Spindle** — the artifact, mechanics,
+  Eight-section structure. Every quote sourced; closing beat cites
+  `AddResheph(history)` at `QudHistoryFactory.cs:119`.
+- [x] **Episode 2: Barathrum the Old — The Bear Who Failed** — written.
+  ~3500 words, target ~26 min runtime (long for a lore essay; tighten
+  IV+V to land under 22 if needed). Saved to
+  [`scripts/02_barathrum_the_bear_who_failed.md`](scripts/02_barathrum_the_bear_who_failed.md).
+  Eight-section structure (Cold Open → Bear at the Arch → Cub Who
+  Crossed → Orphic Truth → The Bargain → A Thousand Years of Shim
+  and Solder → The Breakdown → The Starshiib → The Question). Teed
+  up Rebekah as Episode 3.
+- [ ] Episode 3 candidate: **Rebekah and the Daughters of Exile** —
+  Barathrum's tutor and her surviving line. Material in
+  `corpus/conversations/{YlaHaj,Zothom}.md` and the
+  Daughters faction.
+- [ ] Episode 4 candidate: **The Spindle** — the artifact, the
   Mark of Death, Brightsheol ascent. Material in
   [`corpus/topic_index/Spindle.md`](corpus/topic_index/Spindle.md).
-- [ ] Future candidates: Rebekah & Daughters of Exile, The Mechanimist
-  Faith (75-page scripture deep-dive), The Coven & Folk Clock, The
-  Coda (Inheritor Godling), How Qud Generates Its Own History
-  (the M6 synthesis essay as a script).
+- [ ] Future candidates: The Mechanimist Faith (75-page scripture
+  deep-dive), The Coven & Folk Clock, The Coda (Inheritor Godling),
+  How Qud Generates Its Own History (M6 synthesis as a script).
 
 ---
 
 ## Implementation log
 
 Append each session. Newest at top. Date in absolute form.
+
+### 2026-05-20 (cont.) — Script 2 strict-evidence revision
+
+User called out a critical methodology failure: the draft of Script 2
+re-committed the exact class of overclaim that Script 1's review pass
+had just corrected — asserting a specific mapping from the triumvirate
+(original archon + Rebekah + Barathrum) to the three Resheph personas
+(Healer + Coiled Lamb + Above) as if the game text had stated it,
+when in fact the source declines to specify which mind became which
+persona.
+
+**New standing rule** (saved to user memory as
+`feedback_qud_script_strict_evidence`): for Qud lore scripts, nothing
+goes into a script unless it comes directly from investigation of the
+extracted corpus or decompiled code. No invented detail. No
+identifications/mappings the source doesn't make. No fixed claims
+about player-determined fates. Inference is permitted only when
+labeled as inference.
+
+**Edits applied to Script 2 under the new rule:**
+- Cold Open: dropped "lit by lamps that have been burning for a
+  thousand years" (source says "candle-dim," not "lamps"); dropped
+  "Last alive of the bears who crossed the Homs Delta" (not in source);
+  surfaced the prattleplant + codex + Signal as direct verbatim quotes
+  rather than narrative reconstruction.
+- Section II: removed "for both cultural and biological reasons; bears
+  with paws like his are made for delicate work" (invented). Replaced
+  with Barathrum's own first-person account of his arrival.
+- Section III: removed dramatized "She included him" / "He said yes"
+  reconstruction. Quoted the verbatim "Together we beseeched
+  Resheph..." line instead.
+- Section IV: rewrote the triumvirate-to-personas mapping. Now reads:
+  "The game text does not tell you which of the three personae the
+  Barathrum-scan ended up wearing. The inference is tempting,
+  especially for the Coiled Lamb, but the source declines to spell it
+  out." Removed "The Coiled Lamb sacrifices itself voluntarily. The
+  image is exactly right" (interpretive overreach).
+- Section V: removed "He carried the deceit because the deceit was
+  load-bearing" reasoning. Replaced with: "The source does not say in
+  so many words that this concealment was deliberate strategy versus
+  simple exhaustion — only that it happened."
+- Section VII: removed "left behind by the Eaters" attribution
+  (source says functioning starship exists; doesn't specify origin).
+- Section VIII: 🔴 rewrote "He died in a chrome grotto..." — Barathrum's
+  fate is player-determined (`Barathrum:Dead` AND `Barathrum:Launched`
+  are both branches in the hidden conversation file's state checks).
+  New text acknowledges all branches.
+- Production notes: added a strict-evidence reminder pointing to the
+  user-memory rule.
+
+Final script is ~4035 words, ~24-25 min runtime. Tonally tighter
+than v1 because much of what was "atmospheric" was unsourced
+embellishment and got cut.
+
+### 2026-05-20 (cont.) — Script 2 written
+
+- Wrote `scripts/02_barathrum_the_bear_who_failed.md`. ~3500 words,
+  ~26 min target runtime (slightly long for the genre but the
+  material is dense enough to warrant it; production notes flag
+  tightening options).
+- Eight-section structure mirroring Episode 1's shape: Cold Open →
+  The Bear at the Arch → The Cub Who Crossed → The Orphic Truth →
+  The Bargain → A Thousand Years of Shim and Solder → The
+  Breakdown → The Starshiib → The Question.
+- Tonal targets: don't make Barathrum a villain; treat him as the
+  best person who could have been put in this position. The
+  Starshiib chant (16 repetitions in the source file) lands as
+  comic-tragic, not just comic.
+- Teed up Rebekah as Episode 3 in the closing beat.
 
 ### 2026-05-20 (cont.) — Script 1 reviewed and corrected
 
