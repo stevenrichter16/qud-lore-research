@@ -281,9 +281,19 @@ Two reasons:
   Spindle was called "Gjaus" by the Eaters and "Star-Tree" /
   "Blue Mother" — context that reframes Rebekah's burial at Ezra.
   Teed up the Spindle itself as Episode 4.
-- [ ] Episode 4 candidate: **The Spindle** — the artifact, the Star-Tree
-  the Eaters called Gjaus, the Mark of Death, Brightsheol ascent.
-  Material in [`corpus/topic_index/Spindle.md`](corpus/topic_index/Spindle.md).
+- [x] **Episode 4: The Spindle — Gjaus, the Star-Tree** — written,
+  ~3600 words, ~25 min runtime, ten sections. Saved to
+  [`scripts/04_the_spindle.md`](scripts/04_the_spindle.md). First
+  script with a **per-section visual-assets table** (wiki page links
+  + YouTube footage URLs), per user request. Structure: Cold Open →
+  Omonporch & Asphodel → The Names (Gjaus/Star-Tree/Blue Mother) →
+  What It Is (Eater elevator to the vault of heaven) → What It Means
+  (Templar metaphor / the Aphir "Girl in the Sky" story / the Sonnet)
+  → The Barrier (magnetic field) → The Ascent (Mark of Death → Tomb →
+  Herododicus entombs you → the golem creature) → Brightsheol & the
+  Shomer (Middle-English gatekeeper; "Brightsheol is the dream") →
+  What's at the Top (signal, Seraph, starship) → The Question
+  (Iseppa). Teed up Brightsheol's interior + the final choice as Ep5.
 - [ ] Future candidates: The Mechanimist Faith (75-page scripture
   deep-dive), The Coven & Folk Clock, The Coda (Inheritor Godling),
   How Qud Generates Its Own History (M6 synthesis as a script),
@@ -294,6 +304,49 @@ Two reasons:
 ## Implementation log
 
 Append each session. Newest at top. Date in absolute form.
+
+### 2026-05-20 (cont.) — Episode 4 (The Spindle) written + visual assets
+
+- Investigated the Spindle corpus before drafting (concordance: 115
+  mentions). Read the key new sources: Asphodel (the self-proclaimed
+  Earl), Shomer (the Middle-English Brightsheol gatekeeper),
+  GolemOperatingManual, TeleporterOrbs ("The Girl in the Sky"),
+  Iseppa (the philosophical reflection), the Tomb-of-the-Eaters and
+  Earl-of-Omonporch quests. Reused Barathrum + Haddas from Eps 2-3.
+- **Key lore consolidated:** the Spindle = an Eater-built elevator
+  "to convey freight to and from the vault of heaven" (Barathrum);
+  its names are Gjaus (Eaters) / Star-Tree / Blue Mother / Spindle
+  (Haddas); it self-locks with a magnetic field; the ascent runs
+  *down* through the Tomb of the Eaters and Brightsheol first;
+  Brightsheol is "the dream" of the Seraph who dreams atop Gjaus
+  (Shomer); a functioning starship sits at the top (Barathrum hidden).
+- **Visual-assets request fulfilled:** added a per-section table
+  mapping each of the 10 sections to wiki pages (Spindle, Omonporch,
+  Asphodel, Tomb of the Eaters, Brightsheol, etc.) and YouTube
+  playthrough footage. NB the wiki blocks automated fetch (403), so
+  the table points at pages (which host the tile art) rather than raw
+  image URLs; flagged for the editor to grab by hand. Wiki/YouTube
+  used for B-roll ONLY, never as a lore source — narration is 100%
+  corpus-sourced.
+- Review pass 1 (self gap-coverage): one fix — removed an unsourced
+  claim that Herododicus stands "at the top of the Tomb" (corpus only
+  supports the "Entomb me → Brightsheol" dialogue, not his location).
+- Review pass 2: cold-eye verification agent — verdict NEEDS-EDITS,
+  no critical, all 8 blockquotes confirmed verbatim. 4 fixes applied:
+  - 🟡 §VII conflated TWO separate Brightsheol routes (Herododicus's
+    sarcophagus-entombment vs the Shomer's "heigh gate" via Resheph's
+    burial chamber) into one false sequence. Decoupled; now presents
+    them as the corpus does — two distinct routes sharing the
+    "you must be dead" precondition. (Verified against
+    `ImperialBiographer.md:104-157` myself.)
+  - 🟡 §VII "the title Resheph is given elsewhere" (Saad) overclaimed
+    — the only corpus instances are the *player* bluffing "Saad
+    Resheph stands before you" and the Shomer denying it. Reframed.
+  - 🔵 §IV Aphir quote bracket-edit reattached a pronoun ("them" =
+    her eyes, not the people). Restored the full verbatim quote.
+  - 🔵 §IV "vanished beneath it" softened to "disappeared from a
+    grove in the Spindle's shadow" + attributed the star-belonging
+    to the father.
 
 ### 2026-05-20 (cont.) — Independent fact-check of all 3 scripts (3 cold-eye agents)
 
