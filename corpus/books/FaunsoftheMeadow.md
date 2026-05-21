@@ -1,0 +1,35 @@
+# Fauns of the Meadow
+
+_ID: `FaunsoftheMeadow`_
+
+_1 page_
+
+---
+
+Editor's note: The following is an excerpt from the travel diary of Kaylenn Sand-Shell, who generously donated her leather-bound volumes to the Monastery of the Illustrious Heart of Chrome. May they remain forever preserved.
+      
+One can traverse the arable lands around Moghra'yi for lifetimes without ever encountering the deer-people who call themselves the 'hindren'. In numbers they are but a few hundred, and as a people they do not care to interact with other creatures when they can avoid it. In the twenty years I have actively wandered, I have met but a handful of wandering hindren families, all exiles from their home and yet unwilling to tell me how to find the society that made them pariahs.
+
+I am, however, a hunter as well as a scholar, and after several years of searching I was able to locate their secret village, Bey Lah. All I will say of its location is that it is somewhere in the flower fields of Qud; I have no desire to betray the confidence of a mostly peaceful race of creatures.
+
+My arrival was obviously not celebrated; the Meadow's border scouts are extremely perceptive and conversant in tracking and obfuscation alike. By changing landmarks, using confusing and threatening sounds, and otherwise making my stay in the adjacent wood as unpleasant as possible, they sought to deter me from my path while avoiding notice. When I eluded the guards and made my way to the first neat row of carefully-tended watervine, the hindren farmers who saw me at once took terrified flight.
+
+The extreme of fear that hindren feel toward outsiders is a strange one, in my eyes. They are large, powerful creatures with arms and legs at least as strong as a human's and covered in dense fur that protects them from cold weather. Each individual is skilled at using and maintaining a sharp metal vinereaper. Their antlers are strong as bone and naturally quite sharp; hindren pariahs who learn to fight live longer than most of Qud's wayfarers.
+
+Strange as this attitude may be to me, I cannot argue against its efficacy; the Bey Lah villagers have lived peacefully under informal matriarchal gerontocratic rule for generations. Their eldest or wisest woman becomes 'Hindriarch', and her word on most things is obeyed by every member of the tribe, who refer to her as 'Grand-doe'.
+
+The current Hindriarch was the first hindren to hold a conversation with me, and I will admit to a measure of anxiety being under her hawkish gaze. She was none too pleased at my presence, but intelligent enough to understand that killing me or driving me away would be a greater inconvenience and danger than offering me hospitality. We parted with an uneasy compromise, and I began my residence and observation.
+
+I found quickly that the oral history of the hindren is shoddy at best, perhaps with purpose. Their etymology is similarly muddy, but there are some observable patterns: 'Dren' is a suffix applied to sentients: 'hindren', obviously, and the word for their young, 'faundren'. I also heard 'kendren' a great deal, as it is their word for non-hostile sentients like myself. All hindren names end in the suffix 'hart' or 'hind'. Although they do understand that these are gendered terms (a majority of male fauns bear 'hind' names) it seems that for quite some time, 'hart' was a name appendage reserved for the smallest or most ill-behaved faundren. As it is, the suffixes are considered unisex in modern day, and the meadow's faundren now have a much more even distribution of the suffixes than their parents.
+
+Life for hindren is, for the most part, uneventful to the point of what this traveler would consider extreme boredom. The watervine and lah fields are meticulously tended day after day, never harvested late and always producing as much crop as possible. Growing up, all faundren are trained as farmers, but a lucky few will become carpenters or blacksmiths in order to keep what little infrastructure they maintain running. Those who display particular aptitude and loyalty to the Hindriarch have a chance of becoming border scouts, who keep the nearby fields safe and occasionally bring in wild game or starapples while patrolling. The resulting side dishes provide some much needed variety from the daily Bey Lah staple, a hearty lah petal soup combined with crushed matz. While this 'mah lah soup' is delicious, I appreciated how the occasional serving of boar brisket gave a much needed spice to my day.
+
+I found little else of interest from the adult hindren; they seemed unwilling to speak with me at length. While I heard rumors about a village treasure, I could not obtain any information about what that treasure actually might be.
+
+By contrast, I learned a great deal speaking to the faundren, whose curiosity about the outside world is rapidly becoming difficult for the elders to contain. More than once I heard the term 'hartind', allegedly an ancient term for hindren who lived as both genders or neither, which the young ones take as evidence of a more egalitarian past. I can feel the wanderlust, both in their fascination with me and also in the zeal with which their elders would clamp down on any talk of lands outside of the meadows.
+
+The world outside the flower fields remains an expanse of unavoidable peril for the adults of the tribe. Understandable, as Bey Lah trains few warriors. They have no standing military and only a handful of combat-trained scouts. The hindren take their border security rather seriously, and any of their number who chooses to leave does so permanently and is erased from the tribe's collective memory. The small families of hindren I met in the lah fields and, rarely, elsewhere in Qud, are all exiles, whether due to crimes committed or simply the choice to live elsewhere. Within Bey Lah itself, pariahs are even more thoroughly ostracized than I knew; any mention of their names is spoken only in whispers by the faundren, knowing that being caught speaking of the 'dead' means harsh punishment. This sits poorly with the young ones, and my instincts tell me that their dissatisfaction is a step beyond standard youthful rebellion; the winds of change are coming to Bey Lah.
+
+By the time I left Bey Lah, it was with relief; I haven't the patience for the life these deer-people lead and I was beginning to catch cabin fever in spite of spending very little time in the village's brinestalk yurts. The Hindriarch was as happy to see me go as I was to be off; my pack was loaded with the vinewafers and dried flowers of which I'd long since grown tired and I was ushered out efficiently by scouts.
+
+By the end of the day, I realized that I had taken something else: a faundren had snuck out of the settlement behind me and refused to return to their village. I hardened my heart against the faundren's pleas and found a scout to guide them back to town. If Resheph be merciful, the little one will find happiness there, or the luck to find a more fruitful life elsewhere. All I can say with certainty is that the poor thing does not lack for bravery.

@@ -1,0 +1,27 @@
+# Conversation: `GyreWightAgolgot`
+
+_Inherits: (default: BaseConversation)_
+
+_0 start(s), 1 node(s), 0 root-level choice(s)_
+
+---
+
+## Nodes
+
+### Node `Start`
+
+O! O! A new life obtains? You musn't shudder at old Death!~
+				When an eremite consults the teraphim and sees the eyes of Death, only the fools frets! There is Change but no Ending.~
+				A plague is what burns the core out and lets the berries grow.~
+				O Nephilim! Come for our star bath??~
+				I want salt in my mouth, dead eyes in radiating darkness, and a frog for a friend.~
+				O Life, O Change! Embrace us, entangle us...~
+				I can lick the flanges free of their pipe milk and hear my tongue fizzle in foam!~
+				Girsh Agolgot! Red dusts in my nails and burning hot bubbles swell in my glands! Now I point to the future.~
+				The world stews and titrates.
+				O, the thrill of coursing Change within. Each pump of the heart drives it deeper. Each breath a breath of new life.~
+				Roil with me, and bubble over. Let us exceed ourselves!
+
+**Choices:**
+- **choice** `?` → `End`
+    > Live and drink.

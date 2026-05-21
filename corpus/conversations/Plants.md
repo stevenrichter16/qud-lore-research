@@ -1,0 +1,17 @@
+# Conversation: `Plants`
+
+_Inherits: (default: BaseConversation)_
+
+_0 start(s), 1 node(s), 0 root-level choice(s)_
+
+---
+
+## Nodes
+
+### Node `Start`
+
+*the plant gives no indication of understanding*
+
+**Choices:**
+- **choice** `?` → `End`
+    > Live and drink.

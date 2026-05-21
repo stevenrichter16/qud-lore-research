@@ -1,0 +1,18 @@
+# Conversation: `Oozes`
+
+_Inherits: (default: BaseConversation)_
+
+_0 start(s), 1 node(s), 0 root-level choice(s)_
+
+---
+
+## Nodes
+
+### Node `Start`
+
+*exudes loudly*~
+        *soft gushing*
+
+**Choices:**
+- **choice** `?` → `End`
+    > Live and exude.
