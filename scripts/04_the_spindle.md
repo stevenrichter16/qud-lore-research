@@ -406,14 +406,22 @@ player at the top of the world.
 
 ## Visual assets per section
 
-**Sourcing note for the editor.** The Caves of Qud wiki blocks
-automated fetching, so the specific image-file URLs below need to
-be grabbed by hand from the linked wiki pages (each page hosts tile
-art + screenshots in its infobox and gallery; use the wiki's
-`File:` links or right-click-save). YouTube links are full
-playthroughs of the relevant content — scrub to the noted moment.
-None of these were used as lore sources for the narration; they are
-B-roll suggestions only.
+**Sourcing note for the editor.** The relevant wiki tiles and
+screenshots are now **downloaded locally** to
+[`corpus/visual_assets/04_spindle/`](../visual_assets/04_spindle/)
+(run `extractors/download_wiki_assets.py` to refresh). Key local
+files for this episode: `Earl asphodel.png`, `Asphodelyte.png`,
+`Banana grove.png`, `Court of the sultans.png`, `Twin gates.png`,
+`Omonporch.png`, `Herododicus.png`, `Imperial sarcophagus.png`,
+`Access Corridor_ Tomb of the Eaters.png`, `Grand Vestibule_ Tomb
+of the Eaters.png`, `Elevator shaft.png`, `Funerary urn.png`,
+`Bell of Rest message.png`, `Witchwood tree.png`; plus
+`Rainwater shomer.png` and `Brightsheolgate.png` in
+`../visual_assets/05_brightsheol/`. The wiki page links below are
+the canonical source for each (and for any higher-res screenshots
+the editor wants to grab by hand). YouTube links are full
+playthroughs — scrub to the noted moment. None of these were used
+as lore sources for the narration; they are B-roll only.
 
 | Script section | Wiki pages (images / tile art) | Footage (YouTube) |
 |---|---|---|
