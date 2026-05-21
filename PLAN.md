@@ -263,30 +263,78 @@ Two reasons:
   [`scripts/01_resheph_and_the_plagues.md`](scripts/01_resheph_and_the_plagues.md).
   Eight-section structure. Every quote sourced; closing beat cites
   `AddResheph(history)` at `QudHistoryFactory.cs:119`.
-- [x] **Episode 2: Barathrum the Old — The Bear Who Failed** — written.
-  ~3500 words, target ~26 min runtime (long for a lore essay; tighten
-  IV+V to land under 22 if needed). Saved to
+- [x] **Episode 2: Barathrum the Old — The Bear Who Failed** — written
+  + strict-evidence revision applied. ~4000 words, ~24-25 min target
+  runtime. Saved to
   [`scripts/02_barathrum_the_bear_who_failed.md`](scripts/02_barathrum_the_bear_who_failed.md).
-  Eight-section structure (Cold Open → Bear at the Arch → Cub Who
-  Crossed → Orphic Truth → The Bargain → A Thousand Years of Shim
-  and Solder → The Breakdown → The Starshiib → The Question). Teed
-  up Rebekah as Episode 3.
-- [ ] Episode 3 candidate: **Rebekah and the Daughters of Exile** —
-  Barathrum's tutor and her surviving line. Material in
-  `corpus/conversations/{YlaHaj,Zothom}.md` and the
-  Daughters faction.
-- [ ] Episode 4 candidate: **The Spindle** — the artifact, the
-  Mark of Death, Brightsheol ascent. Material in
-  [`corpus/topic_index/Spindle.md`](corpus/topic_index/Spindle.md).
+  Eight-section structure. Teed up Rebekah as Episode 3.
+- [x] **Episode 3: Rebekah and the Daughters of Exile** — written,
+  two review passes applied under the strict-evidence rule. ~3900
+  words, ~25 min target runtime. Saved to
+  [`scripts/03_rebekah_and_the_daughters_of_exile.md`](scripts/03_rebekah_and_the_daughters_of_exile.md).
+  Ten-section structure (Cold Open → What the World Was Told →
+  What Barathrum Called Her → What She Served → The Betrayal →
+  The Rotting Tongue → Where They Buried Her → The Daughters Who
+  Tinker → Zothom and the Question of Grief → A Hologram at the
+  End → The Question). Major discovery embedded: Ezra is the
+  Eaters' funerary site (per Haddas the tree-mayor) and the
+  Spindle was called "Gjaus" by the Eaters and "Star-Tree" /
+  "Blue Mother" — context that reframes Rebekah's burial at Ezra.
+  Teed up the Spindle itself as Episode 4.
+- [ ] Episode 4 candidate: **The Spindle** — the artifact, the Star-Tree
+  the Eaters called Gjaus, the Mark of Death, Brightsheol ascent.
+  Material in [`corpus/topic_index/Spindle.md`](corpus/topic_index/Spindle.md).
 - [ ] Future candidates: The Mechanimist Faith (75-page scripture
   deep-dive), The Coven & Folk Clock, The Coda (Inheritor Godling),
-  How Qud Generates Its Own History (M6 synthesis as a script).
+  How Qud Generates Its Own History (M6 synthesis as a script),
+  Haddas the tree-mayor of Ezra (technically an Eater).
 
 ---
 
 ## Implementation log
 
 Append each session. Newest at top. Date in absolute form.
+
+### 2026-05-20 (cont.) — Script 3 written + reviewed under strict-evidence rule
+
+- Investigated Rebekah lore in corpus *before* drafting, per the
+  rule. Primary sources: YlaHaj (Daughter of Exile at Ezra), Zothom
+  (the Penitent at the gravesite), Barathrum hidden conversation
+  (where the betrayal is recounted), and — a major find I almost
+  missed — Haddas the tree-mayor of Ezra, who reveals Ezra is the
+  Eaters' funerary site and that the Spindle was called *Gjaus*
+  and *Star-Tree* by the Eaters. Also: a one-node `RebekahHologram`
+  conversation in `HiddenConversations.xml`.
+- Drafted with strict-evidence discipline from the start. Then ran
+  two review passes (gap-coverage + cold-eye adversarial) before
+  commit. 11 edits applied, including:
+  - 🔴 "Rebekah told the orphic truth to a Seraph, then to a young
+    bear" — she SERVED the Seraph, she TOLD the orphic truth to
+    her apprentice. Fixed.
+  - 🔴 "Sultanate's chroniclers — Resheph's own annal-keepers" —
+    invented. Replaced with the passive construction the source
+    actually uses.
+  - 🔴 "Daughters are not at the grave because Rebekah's bones are
+    sacred relics" — directly contradicts Yla Haj, who calls the
+    gravesite sacred. Forced false contrast removed.
+  - 🟡 "Two villagers do not agree on much" — they tell compatible
+    stories with different emphases. Softened.
+  - 🟡 Faction-file claim about Daughters' negative attitude toward
+    Templar mixed up the feelings table and worship-attitudes table.
+    Precision restored.
+  - 🟡 "Stitch back together" misquotes Barathrum, who says "stitch
+    something new." Fixed.
+  - 🟡 Hologram-section: "more fragmented than Resheph's lines"
+    overclaim — both are archaic compound-word register. Cut.
+  - 🟡 Hologram-section: silently implied the hologram came from
+    Resheph's thin-scan. Now: "the script will not connect this
+    hologram to Resheph's triumvirate thin-scan or to any other
+    origin point; the source does not establish that connection."
+  - 🟡 "Resheph's people's grave-soil" — kinship inference removed;
+    softened to "Eaters' grave-soil" with attribution.
+- Final script ~3900 words, ~25 min runtime. Open-ended on
+  Daughters-worship-Resheph-+50 question (declined to speculate
+  why; flagged as a corpus open question).
 
 ### 2026-05-20 (cont.) — Script 2 strict-evidence revision
 
