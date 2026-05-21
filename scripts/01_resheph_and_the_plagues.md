@@ -34,10 +34,10 @@ of register — majestic-second-person archaic English, capital letters
 on every word — is a *gift*: this being is condescending to use a
 language the human mind can contain at all.
 
-This is Resheph. Sultan of the Late Sultanate. Healer of the seven
-plagues. The Coiled Lamb. The Above. The figure Mechanimist
-preachers invoke in their sermons, that villagers in Joppa name in
-their gospels.
+This is Resheph. Sultan of the Late Sultanate. Healer of the
+plagues of the Gyre. The Coiled Lamb. The Above. The figure
+preachers invoke in their sermons, and the Sultan the Mechanimist
+faction reveres.
 
 He is the Seraph who engineered the genocide of all life on the
 planet — and he is not done.
@@ -82,15 +82,23 @@ dust of time, it's lost to those who'd sneer at the veneration of
 Resheph over other fathers." Coiled Lamb. A pastoral image. A
 sacrificial image. A figure of gentle, voluntary surrender.
 
-In the Mechanimist scripture — and the Mechanimist faith is the
-dominant religion of Qud, with seventy-plus pages of canonical
-text — Resheph is invoked in liturgy:
+In the game's preacher-sermon books, Resheph is invoked by name in
+liturgical language:
 
 > *"Praise Resheph, the Above, who purifies our mercury."*  
 > — *(book: Preacher1)*
 
 > *"In the name of Resheph, cleanse them of your flesh!"*  
 > — *(book: HighSermon)*
+
+And in the faction data, the Mechanimists carry a worship attitude
+toward Resheph of +50 *(faction: Mechanimists)* — the game's way
+of encoding that this faith reveres him. (Two notes for accuracy:
+the books themselves never use the word "Mechanimist," so the tie
+between these specific sermons and that faction is an inference,
+not a stated fact; and across all the preacher-and-sermon books
+combined, Resheph is named only a couple of times. He is a
+*revered* figure, not an omnipresent one in the surviving liturgy.)
 
 Note the three distinct personas the public Resheph carries. He is
 *the healer* — the body-mender, the plague-tamer. He is *the Coiled
@@ -139,13 +147,16 @@ covenant with "a great coven of beings that spanned the firmament"
 (Barathrum's own words), and who, according to him, "succumbed to
 some terrible temptation" — at which point an injunction was placed
 on the world and the Coven departed. The Sultanate that came later
-inherits this lineage in one small technical detail: every Sultan
-in Qud's history, including Resheph, has a name rolled from a list
-the game's namegen labels `"Eater"`. The Sultanate, in its bones,
-is an *Eater* institution. (There is also, separately, a modern
-cannibal faction in Qud known as the Eaters of the People — but
-their connection to the precursor Eaters of Earth is left
-ambiguous by the text.)
+inherits this lineage in one small technical detail: every
+*procedurally generated* Sultan in Qud's history has a name rolled
+from a list the game's namegen labels `"Eater"` (`InitializeSultan.cs`).
+Resheph is the exception — his name is hardcoded to the literal
+string *Resheph* (`InitializeResheph.cs`), and we'll return to why
+that matters. But the naming convention tells you what the
+Sultanate is in its bones: an *Eater* institution. (Qud also has a
+separate, modern cannibal faction — the corpus data file calls it
+simply `Cannibals` — whose relationship, if any, to the precursor
+Eaters of Earth the game leaves unstated.)
 
 A second loose thread, more poignant. The healer-priestess
 Yla Haj of Bey Lah, when you ask about exiles, tells you:
@@ -170,15 +181,23 @@ healer-king story:
 2. A healer-king cast out his own teacher, the physician Rebekah,
    and let her die alone.
 
-A third strangeness. The official record in Qud says Resheph is
-*dead.* If you find the Imperial Biographer — the keeper of the
-Sultanate's annals — and try to argue with him, he will say it
-flatly: *"The sultanate is dissolved. Resheph rules no longer."*
-And: *"But Resheph is dead. The sultanate is dissolved."*
-*(conversation: ImperialBiographer)* The dynasty ended, the Sultan
-was buried in his tomb at Omonporch, the era closed. Except, of
-course, that at the top of the Spindle something has been speaking
-in archaic English for ten thousand years, waiting for you.
+A third strangeness, this one from the Sultanate's own
+record-keeper. The Imperial Biographer is a figure named
+Herododicus, who introduces himself as *"lapidary, lithographer,
+sculptor, calciminer, and biographer to the Coiled Lamb."* He is
+still at his post, waiting: *"I will tarry here until the Godhead
+passes on, and then I will canonize his deeds in high relief. I've
+tarried for quite some time, now.... What a prodigious reign!
+Bless that Coiled Lamb!"* If you tell him the sultanate has
+dissolved and Resheph rules no longer, he refuses to believe you —
+*"The sultanate dissolved? Tidings would have reached me....
+someone would have said so...."* — and decides you must be
+brain-addled. *(conversation: ImperialBiographer)* The official
+chronicler of the regime does not know, or will not accept, that
+the reign he's been waiting to immortalize has ended. He is still
+poised to carve the deeds of a Godhead who — depending on which
+story you believe — either was entombed at Omonporch long ago, or
+sits at the top of the Spindle, speaking, right now.
 
 You might brush these off — every saint has a controversy, every
 ruler has an old grudge. Except.
@@ -301,8 +320,8 @@ manufactured biology, confessed to in the first person by the
 Seraph who manufactured them.
 
 And the Gyre — the *gyre* that the snail farmer mused about,
-"from Resheph's gospels," the Gyre that the SnailFarmer didn't
-know the meaning of — is the waveform mechanism by which Resheph
+"from Resheph's gospels," the one whose name the farmer leaves as
+an open question — is the waveform mechanism by which Resheph
 broadcast the plagues into the world. The Gyre is the *delivery
 system.*
 

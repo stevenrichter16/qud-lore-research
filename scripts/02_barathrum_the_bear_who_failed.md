@@ -83,8 +83,11 @@ The urshiib. Quilled albino bears. They prefer the dim places.
 Their cave-dwelling is *cultural*, not just biological — they are
 private people, slow people, scholarly people. Barathrum's
 Barathrumites are mostly bears. His chief apprentices include
-Hortensa, Q Girl, Otho, the eccentric mushroom prodigy Pax Klanq.
-Some of these have studied under him for decades. As Hortensa
+Hortensa and his protégé Q Girl, along with Otho. (Pax Klanq —
+the eccentric mushroom prodigy who eventually builds the
+Spindle-climber — is not a disciple but an outside contractor,
+brought in years later on an old debt.) Some have studied under
+him for decades. As Hortensa
 says, *"Most of these wet-earred cubs were merely sketches in
 their mothers' dreambooks when I arrived to study under
 Barathrum."* *(conversation: Hortensa)* Centuries of teaching
@@ -295,11 +298,10 @@ worn down. New apprentices. Old apprentices buried.]`
 For a thousand years, Barathrum carried it.
 
 He worked. He built the Barathrumites. He taught Hortensa for
-centuries. He took on Q Girl, and Otho, and the rest. He sheltered
-the Daughters of Exile — the tinker-acolytes who had followed
-Rebekah's line. He maintained a public posture as a wise tinker
-in a candle-dim study, beloved of his apprentices, a private
-scholar in the chrome grottos.
+centuries. He took on Q Girl, and Otho, and the rest. He
+maintained a public posture as a wise tinker in a candle-dim
+study, beloved of his apprentices, a private scholar in the chrome
+grottos.
 
 The work of the *earthly plan*, as he names it in his late
 breakdown:
@@ -465,11 +467,13 @@ wants to find the bears who flew away.
 `[VISUAL: black. The bear's silhouette against the Spindle.]`
 
 *Caves of Qud* lets the player decide Barathrum's fate, not the
-game's writers. The hidden conversation file contains conditional
-state checks for `Barathrum:Dead` and `Barathrum:Launched`, which
-is to say: at the end, depending on player action, Barathrum can
-die, or he can leave on the starship, or he can simply remain. The
-conversation does not foreclose any of those.
+game's writers. The Resheph endgame conversation gates on a
+delimited state — `(Barathrum:Dead OR Barathrum:Launched)` — used
+to retarget dialogue toward a `BarathrumLives` branch
+*(conversation: Resheph, hidden)*. In other words, the game tracks
+three outcomes: Barathrum lives, Barathrum dies, or Barathrum
+launches on the starship. The conversation does not foreclose any
+of those.
 
 Nor does the game adjudicate his choices for the player. It does
 not tell the viewer whether allying with the Seraph was right.
@@ -562,9 +566,10 @@ production:
   in the source; the script must not name which Resheph-persona
   was Barathrum's. The script may *raise* the inference and
   immediately note that the source declines to confirm it.
-- Barathrum's fate is player-determined (`Barathrum:Dead` /
-  `Barathrum:Launched` states exist as separate branches). Do not
-  state a single outcome.
+- Barathrum's fate is player-determined: the Resheph hidden
+  conversation gates on `(Barathrum:Dead OR Barathrum:Launched)`
+  vs a `BarathrumLives` branch (in `conversations_hidden/Resheph.md`,
+  NOT the Barathrum file). Do not state a single outcome.
 - The breakdown section (VI) must be paced *slow.* The lines
   *"more time"* and *"the greater portion of my meal in blame"*
   are the emotional core. Don't rush past them.

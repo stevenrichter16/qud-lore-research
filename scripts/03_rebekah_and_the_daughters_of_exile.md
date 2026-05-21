@@ -197,8 +197,10 @@ personality as a triumvirate, seeded from thin scans of the
 original archon, Rebekah, and myself."
 
 A thin scan of Rebekah's mind became part of the personality that
-the Mechanimist faith would later worship as Sultan Resheph. The
-game text does not specify which of the three public personae —
+would later be revered as Sultan Resheph — the figure the
+Mechanimist faction worships, carrying a +50 worship attitude
+toward him in the game's faction data *(faction: Mechanimists)*.
+The game text does not specify which of the three public personae —
 the Healer, the Coiled Lamb, the Above — Rebekah's scan ended up
 animating. The inference toward *the Healer*, given that she was
 *the physician*, is tempting. The source declines to confirm it.
@@ -237,10 +239,10 @@ sultanate and banished her from the realm."*
 Three witnesses, three angles on the same fact. The triangulation
 matters because none of them is wrong. The public record is true
 as far as it goes. The hidden record extends it. Resheph, the
-healer Sultan, the Coiled Lamb of the Mechanimist faith — the
-same figure who had once asked Rebekah for a thin scan of her
-mind so he could be three minds at once — refused to let her come
-home, and let her die abetting lepers in a foreign region.
+healer Sultan, the Coiled Lamb — the same figure who had once
+asked Rebekah for a thin scan of her mind so he could be three
+minds at once — refused to let her come home, and let her die
+abetting lepers in a foreign region.
 
 ---
 
@@ -274,9 +276,10 @@ surviving site, and Ezra is it. The deepest historical layer in
 the world.
 
 And the mayor of Ezra is a tree named Haddas, who is himself
-ancient. He places his own seed-date "to the reign of [Sultan IV]"
-— which makes him, technically, an Eater. He explains the place
-to a visitor:
+ancient. He places his own seed-date "to the reign of [Sultan IV]."
+A visitor can point out that this technically makes him an Eater,
+and Haddas allows only: *"HA HA HA. I suppose so."* He explains
+the place to a visitor:
 
 > *"Ezra is more than tree-old. It's stone-old. Seedlings have*
 > *lived here since our roots dreamed of joggling their fingers at*
@@ -305,10 +308,12 @@ together describe one fact.
 One more mechanical detail. Per Zothom: *"Only those who pay
 their respects to the Grave of Rebekah will know the way into the
 tomb."* Rebekah's grave is the literal key into the Tomb of the
-Eaters. To reach Resheph's burial chamber — and from there,
-Brightsheol, and from there the Spindle's control unit — the
-player must first pay respects at her grave. The world's
-geography enforces what the world's record refuses to admit.
+Eaters. (Where the path leads from there — Resheph's burial
+chamber, the dream-city the game calls Brightsheol, the Spindle's
+control unit — is the subject of the next episode; what the corpus
+establishes *here* is only that the grave is the entrance.) The
+world's geography makes a victim's grave the doorway to the place
+the regime's record refuses to discuss.
 
 ---
 
@@ -569,7 +574,8 @@ density of source material. Tighten Section VII if needed.)
 - The Coven and the Folk Clock
 - The Coda / Inheritor Godling
 - Haddas, the tree-mayor of Ezra (he deserves his own episode
-  someday — he is, by his own admission, *technically an Eater*)
+  someday — a visitor can note he is *technically an Eater*, which
+  he concedes with "I suppose so")
 - The mopango of the Tomb of the Eaters
 
 **Cross-references back to Episodes 1 and 2:**

@@ -295,6 +295,59 @@ Two reasons:
 
 Append each session. Newest at top. Date in absolute form.
 
+### 2026-05-20 (cont.) — Independent fact-check of all 3 scripts (3 cold-eye agents)
+
+Spawned three parallel verification agents — one per script — each
+tasked with grepping the corpus to confirm EVERY quote verbatim and
+flag any strict-evidence violation. Cross-checked the critical
+findings against source myself before accepting. All three came back
+NEEDS-EDITS. 14 corrections applied total.
+
+**Script 1 (Resheph) — 5 fixes, incl. 2 critical:**
+- 🔴 **Imperial Biographer beat was backwards.** The lines "The
+  sultanate is dissolved / Resheph is dead" are PLAYER choices, not
+  the biographer's. The biographer (Herododicus) actually *refuses*
+  to believe the reign ended — "What a prodigious reign! Bless that
+  Coiled Lamb!" Rewrote the beat to use him correctly (a deluded
+  loyalist still waiting to canonize a Godhead who may be dead or may
+  be atop the Spindle). NB: this error was introduced during the
+  *previous* review pass — a good argument for fresh-eyes review.
+- 🔴 **"Every Sultan including Resheph" namegen claim was wrong.**
+  Resheph's name is hardcoded (`InitializeResheph.cs:24 string value
+  = "Resheph"`), NOT rolled from the Eater list. Fixed to "every
+  *other* Sultan"; this actually strengthens the §VI fixed-star point.
+- 🟡 Mechanimist passage overclaimed: dropped "dominant religion of
+  Qud, 70+ pages of canonical text." The books never say "Mechanimist"
+  and name Resheph only ~twice across 76 pages. Reframed as
+  preacher-sermons that invoke him + the sourced faction-worship fact.
+- 🟡 SnailFarmer "didn't know the meaning" → "leaves as an open
+  question" (the NPC only poses a rhetorical prompt).
+- 🟡/🔵 "Healer of the seven plagues" → "Healer of the plagues of the
+  Gyre"; "Eaters of the People" → corpus calls it `Cannibals`.
+
+**Script 2 (Barathrum) — 4 fixes, 1 critical:**
+- 🔴 **`Barathrum:Dead`/`Launched` states misattributed** to the
+  Barathrum hidden file; they're actually in `Resheph.md:212,380,975`.
+  The fate-is-open claim is true but the citation pointed at the wrong
+  file. Re-attributed.
+- 🟡 "He sheltered the Daughters of Exile" — unsourced; dropped.
+- 🔵 Pax Klanq listed as apprentice — he's an outside contractor on a
+  debt, not a disciple. Moved out of the apprentice list.
+
+**Script 3 (Rebekah) — 5 fixes (quotes were 100% accurate):**
+- 🟡 "Mechanimist faith" attribution — the word appears in none of
+  script 3's cited sources. Re-grounded via the `factions:Mechanimists`
+  +50 worship attitude with explicit citation.
+- 🟡 Brightsheol→control-unit geographic chain stated as fixed fact;
+  only "grave is the key into the tomb" is sourced (Zothom). Relabeled
+  the rest as Episode 4 forward-reference.
+- 🔵 "technically an Eater / by his own admission" — it's player-
+  proposed; Haddas only concedes "I suppose so." Softened.
+
+Both verification agents that checked quote-fidelity confirmed every
+blockquote in all three scripts is verbatim. The problems were all in
+the connective prose, not the quotations.
+
 ### 2026-05-20 (cont.) — Script 3 written + reviewed under strict-evidence rule
 
 - Investigated Rebekah lore in corpus *before* drafting, per the
