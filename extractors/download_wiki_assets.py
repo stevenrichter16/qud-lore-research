@@ -87,6 +87,16 @@ ASSETS = {
         "Nacham.png", "Dagasha.png", "Vaam.png", "Kah.png",
         "Kgoninon.png", "Conservator.png", "Repulsive device.png",
     ],
+    # Standalone faction profile — the Putus Templar.
+    "08_putus_templar": [
+        "Banner of the holy rhombus.png", "Fullerite aegis.png",
+        "Knight templar.png", "Bannerknight templar.png",
+        "Gunnerknight templar.png", "Wraith knight templar.png",
+        "Knight commander of the holy temple.png",
+        "Templar squire.png", "Phylactery squire.png",
+        "Templar phylactery.png", "The murmurs prayer.png",
+        "Warden une.png", "Yd freehold.png", "Q girl.png",
+    ],
 }
 
 

@@ -141,3 +141,22 @@ Regenerate with `python3 extractors/download_wiki_assets.py`.
 | `Kgoninon.png` | 1 KB | [Kgoninon.png](https://wiki.cavesofqud.com/wiki/File:Kgoninon.png) |
 | `Conservator.png` | 1 KB | [Conservator.png](https://wiki.cavesofqud.com/wiki/File:Conservator.png) |
 | `Repulsive device.png` | 1 KB | [Repulsive device.png](https://wiki.cavesofqud.com/wiki/File:Repulsive_device.png) |
+
+## 08_putus_templar
+
+| File | Size | Wiki source |
+|---|---:|---|
+| `Banner of the holy rhombus.png` | 1 KB | [Banner of the holy rhombus.png](https://wiki.cavesofqud.com/wiki/File:Banner_of_the_holy_rhombus.png) |
+| `Fullerite aegis.png` | 1 KB | [Fullerite aegis.png](https://wiki.cavesofqud.com/wiki/File:Fullerite_aegis.png) |
+| `Knight templar.png` | 1 KB | [Knight templar.png](https://wiki.cavesofqud.com/wiki/File:Knight_templar.png) |
+| `Bannerknight templar.png` | 1 KB | [Bannerknight templar.png](https://wiki.cavesofqud.com/wiki/File:Bannerknight_templar.png) |
+| `Gunnerknight templar.png` | 1 KB | [Gunnerknight templar.png](https://wiki.cavesofqud.com/wiki/File:Gunnerknight_templar.png) |
+| `Wraith knight templar.png` | 1 KB | [Wraith knight templar.png](https://wiki.cavesofqud.com/wiki/File:Wraith_knight_templar.png) |
+| `Knight commander of the holy temple.png` | 1 KB | [Knight commander of the holy temple.png](https://wiki.cavesofqud.com/wiki/File:Knight_commander_of_the_holy_temple.png) |
+| `Templar squire.png` | 1 KB | [Templar squire.png](https://wiki.cavesofqud.com/wiki/File:Templar_squire.png) |
+| `Phylactery squire.png` | 1 KB | [Phylactery squire.png](https://wiki.cavesofqud.com/wiki/File:Phylactery_squire.png) |
+| `Templar phylactery.png` | 1 KB | [Templar phylactery.png](https://wiki.cavesofqud.com/wiki/File:Templar_phylactery.png) |
+| `The murmurs prayer.png` | 1 KB | [The murmurs prayer.png](https://wiki.cavesofqud.com/wiki/File:The_murmurs_prayer.png) |
+| `Warden une.png` | 1 KB | [Warden une.png](https://wiki.cavesofqud.com/wiki/File:Warden_une.png) |
+| `Yd freehold.png` | 1 KB | [Yd freehold.png](https://wiki.cavesofqud.com/wiki/File:Yd_freehold.png) |
+| `Q girl.png` | 1 KB | [Q girl.png](https://wiki.cavesofqud.com/wiki/File:Q_girl.png) |

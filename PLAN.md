@@ -344,6 +344,37 @@ Two reasons:
 
 Append each session. Newest at top. Date in absolute form.
 
+### 2026-05-20 (cont.) — Standalone faction profile: the Putus Templar
+
+- Investigated first: Otho (the "Sons and Daughters," Eater-descent
+  claim, slave pens), Murmur's Prayer (the three core values + the
+  Murmurs' Festival + the diptych + Oudin), From Entropy to Hierarchy
+  (Q Girl's ordered-vs-chaotic-violence thesis, the slave caste,
+  "baptism in the blood of the reclaimed"), the Templar Domesticant
+  ("Newfather!"), Une (the apparent escapee — blank Aegis, hurdy-gurdy),
+  the two quests, the faction file.
+- Thesis: cruelty CODIFIED into orthodoxy — ordered violence that
+  reproduces, vs. the chaotic violence of the Gyre wights. A third
+  distinct society-type after Bey Lah (fear) and the mopango (care):
+  the Templar are PURITY + HIERARCHY enforced by ritualized cruelty.
+- Wrote a self-contained 7-section profile. Bookended by the
+  Domesticant ("Did I do well, Newfather?") and Une (the one who got
+  out). Q Girl cited only as "a Qud scholar," Otho as "an observer";
+  the main-quest siege role deliberately omitted to keep it standalone
+  and unspoiled.
+- Downloaded 14 Templar assets into `corpus/visual_assets/08_putus_templar/`
+  (the holy rhombus banner, knight types, squires, the Fullerite Aegis,
+  Warden Une, the Murmur's Prayer book). 109 total assets now. NB: no
+  Domesticant or Murmur tile exists on the wiki — the visual table uses
+  text overlays + squire tiles for those beats.
+- Review pass 1 (self gap-coverage): quotes clean; the two big
+  inferences (reclamation-as-capture-and-remake; Une-as-ex-Templar)
+  are hedged as the game leaves them. Flagged for the agent: whether
+  "Oudin" is the supreme Templar leader or a regional commander (§V
+  currently says "the figure they all serve"). Review pass 2: cold-eye
+  agent with wiki canon-check (running at time of writing); corrections
+  to follow before commit.
+
 ### 2026-05-20 (cont.) — Comprehensive corpus+WIKI canon review of both one-offs
 
 User asked for a comprehensive correctness review of the two one-offs
