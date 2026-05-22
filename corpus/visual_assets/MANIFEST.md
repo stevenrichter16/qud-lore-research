@@ -180,3 +180,29 @@ Regenerate with `python3 extractors/download_wiki_assets.py`.
 | `Slynth.png` | 1 KB | [Slynth.png](https://wiki.cavesofqud.com/wiki/File:Slynth.png) |
 | `Hexagonal crystal.png` | 1 KB | [Hexagonal crystal.png](https://wiki.cavesofqud.com/wiki/File:Hexagonal_crystal.png) |
 | `Crystalline halo.png` | 1 KB | [Crystalline halo.png](https://wiki.cavesofqud.com/wiki/File:Crystalline_halo.png) |
+
+## 10_joppa
+
+| File | Size | Wiki source |
+|---|---:|---|
+| `Ovw joppa.png` | 1 KB | [Ovw joppa.png](https://wiki.cavesofqud.com/wiki/File:Ovw_joppa.png) |
+| `Joppa town.png` | 76 KB | [Joppa town.png](https://wiki.cavesofqud.com/wiki/File:Joppa_town.png) |
+| `Elder irudad.png` | 1 KB | [Elder irudad.png](https://wiki.cavesofqud.com/wiki/File:Elder_irudad.png) |
+| `Mehmet.png` | 1 KB | [Mehmet.png](https://wiki.cavesofqud.com/wiki/File:Mehmet.png) |
+| `Nima ruda.png` | 1 KB | [Nima ruda.png](https://wiki.cavesofqud.com/wiki/File:Nima_ruda.png) |
+| `Tam dromad merchant.png` | 1 KB | [Tam dromad merchant.png](https://wiki.cavesofqud.com/wiki/File:Tam_dromad_merchant.png) |
+| `Warden yrame.png` | 1 KB | [Warden yrame.png](https://wiki.cavesofqud.com/wiki/File:Warden_yrame.png) |
+| `Watervine.png` | 1 KB | [Watervine.png](https://wiki.cavesofqud.com/wiki/File:Watervine.png) |
+| `Watervine farmer.png` | 1 KB | [Watervine farmer.png](https://wiki.cavesofqud.com/wiki/File:Watervine_farmer.png) |
+| `Vinewafer.png` | 1 KB | [Vinewafer.png](https://wiki.cavesofqud.com/wiki/File:Vinewafer.png) |
+| `Iron vinereaper.png` | 1 KB | [Iron vinereaper.png](https://wiki.cavesofqud.com/wiki/File:Iron_vinereaper.png) |
+| `Gnawed watervine.png` | 1 KB | [Gnawed watervine.png](https://wiki.cavesofqud.com/wiki/File:Gnawed_watervine.png) |
+| `Ovw red rock.png` | 1 KB | [Ovw red rock.png](https://wiki.cavesofqud.com/wiki/File:Ovw_red_rock.png) |
+| `Girshling.png` | 1 KB | [Girshling.png](https://wiki.cavesofqud.com/wiki/File:Girshling.png) |
+| `Girshling corpse.png` | 1 KB | [Girshling corpse.png](https://wiki.cavesofqud.com/wiki/File:Girshling_corpse.png) |
+| `Baboon.png` | 1 KB | [Baboon.png](https://wiki.cavesofqud.com/wiki/File:Baboon.png) |
+| `Slynth.png` | 1 KB | [Slynth.png](https://wiki.cavesofqud.com/wiki/File:Slynth.png) |
+| `Salt marsh.png` | 1 KB | [Salt marsh.png](https://wiki.cavesofqud.com/wiki/File:Salt_marsh.png) |
+| `Witchwood bark.png` | 1 KB | [Witchwood bark.png](https://wiki.cavesofqud.com/wiki/File:Witchwood_bark.png) |
+| `Starapple tree.png` | 1 KB | [Starapple tree.png](https://wiki.cavesofqud.com/wiki/File:Starapple_tree.png) |
+| `Joppa graveyard.png` | 22 KB | [Joppa graveyard.png](https://wiki.cavesofqud.com/wiki/File:Joppa_graveyard.png) |

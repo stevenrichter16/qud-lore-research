@@ -350,6 +350,25 @@ Two reasons:
   reading (keter / sefirot / Tree of Life, Chavvah = Eve) framed as
   the script's reading of real in-game terms. Visuals: 15 `09_chavvah/`
   assets mapped per section.
+- [x] **Standalone one-off #5: Joppa — The People of the Vine** —
+  written, ~3500 words, ~23 min, fully self-contained; a PLACE/community
+  profile (the starting village). Saved to
+  [`scripts/standalone_joppa.md`](scripts/standalone_joppa.md). Thesis:
+  the ordinary place is what all the cosmic struggle is *for* — a
+  watervine-farming hamlet in the crack between the Great Salt Desert
+  (Moghra'yi) and the rotting jungle, "the people of the vine," surviving
+  on *just enough* water. Cast: Elder Irudad (host/memory-keeper), Mehmet
+  (the wind-tasting dreamer), Nima Ruda (the elder's apothecary daughter
+  who refuses to inherit leadership), Tam (the dromad who stopped
+  walking), Warden Yrame ("I kill trouble"). Two player-determined forks
+  handled as forks: the watervine crisis / Battle of Red Rock, and
+  whether Joppa takes in the slynth refugees. STANDALONE: Argyve / the
+  Barathrumites, the Six Day Stilt, and Irudad's Gyre/nephilim/
+  Resheph-plague lore deliberately omitted; the watervine-eaters kept
+  local ("girshlings," "a creature of plague"). Built on Irudad / Mehmet
+  / Nima_Ruda / Tam / WardenYrame + HistoryofJoppa Vol 1-2 + the What's
+  Eating the Watervine? quest. Visuals: 21 `10_joppa/` assets mapped per
+  section.
 - [ ] Future / bonus candidates: The Mechanimist Faith (scripture
   deep-dive), The Coven & Folk Clock, "How Qud Generates Its Own
   History" (M6 synthesis as a script), Haddas the tree-mayor of Ezra,
@@ -360,6 +379,60 @@ Two reasons:
 ## Implementation log
 
 Append each session. Newest at top. Date in absolute form.
+
+### 2026-05-21 (cont.) — Standalone place profile: Joppa, the People of the Vine
+
+User picked "Joppa" from a data-ranked shortlist of 3 candidate one-offs
+(the recommendation was grounded in corpus mention-counts: Joppa topic
+index = 92 lines + 2 dedicated History of Joppa books).
+
+- Investigated the corpus: topic_index/Joppa (the full map), the two
+  History of Joppa books (Vol 1 "the people of the vine" founding myth;
+  Vol 2 the Ut yara Ux festival + warm apple matz), and the resident
+  conversations — Irudad (the elder), Mehmet (the wind-tasting farmer),
+  Nima Ruda (the elder's apothecary daughter), Tam (the dromad
+  saltstrider), Warden Yrame — plus the What's Eating the Watervine?
+  quest and the Joppa faction file.
+- Thesis: in a game of god-machines and apocalypses, Joppa is the
+  smallest thing — a watervine farm in the crack between the Great Salt
+  Desert (Moghra'yi) and the rotting jungle — and it is what all the
+  cosmic struggle is FOR. A humane "place & its people" portrait; the
+  deliberate ordinary counterweight to the extraordinary societies of
+  Bey Lah / mopango / Putus Templar / Chavvah.
+- 7 sections: Cold Open → The Crack Between the Salt and the Jungle →
+  The People of the Vine → The Elder and His Daughter → The Warden and
+  the Wanderer → The Battle of the Vegetable → The Open Door → The Place
+  Worth Saving.
+- STANDALONE discipline: omitted Argyve / the Barathrumites (the
+  main-quest gateway), the Six Day Stilt (a named destination), and
+  Irudad's longer Gyre / Girsh-nephilim / Resheph-plague nodes; trimmed
+  his "in the shadow of the Spindle" line so the Spindle isn't named;
+  kept the watervine-eaters local ("girshling," "a creature of plague").
+  The slynth appear only as displaced refugees seeking a home (no
+  Chavvah / other options named). Two player forks (the Red Rock battle;
+  accepting the slynth) presented as forks, never single canon.
+- Review pass 1 (self, line-by-line vs. corpus): one quote-fidelity fix
+  — "a creature of plague" → a *"creature of plague"* (Irudad.md:110 is
+  "Creature of plague," no "a"). Everything else verbatim.
+- Review pass 2 (background cold-eye agent, corpus + live-wiki canon):
+  0 CRITICAL — no fabricated quotes, no canon errors, no
+  player-outcome-as-canon, no self-containment leak, spelling clean,
+  wiki consistent (it confirmed apple matz is Joppa's signature dish and
+  the Ut yara Ux festival framing). One minor fix applied: softened the
+  "lime and gallium" paraphrase to "lime, and maybe gallium" (Mehmet's
+  corpus line hedges gallium with "mayhaps"). The cold-open
+  two-paragraph join was verified as same-node contiguous text (not a
+  splice) and left as-is.
+- Downloaded 21 Joppa tiles into `corpus/visual_assets/10_joppa/` (the
+  overworld + town, Irudad / Mehmet / Nima Ruda / Tam / Yrame, watervine
+  / vinewafer / vinereaper / farmer, gnawed watervine, Red Rock,
+  girshling + corpse, baboon, slynth, salt marsh, witchwood, starapple,
+  the graveyard). 145 total assets now across 10 episode folders.
+
+- **Standalone library now: 5 one-offs** (Bey Lah / fear, Mopango /
+  care, Putus Templar / codified cruelty, Chavvah / the collective that
+  lets a self go, Joppa / the ordinary place worth saving) + the 5-part
+  Resheph series. **145 visual assets across 10 episode folders.**
 
 ### 2026-05-21 (cont.) — QC review round 3: cross-series consistency + edit validation + noun/number audit
 

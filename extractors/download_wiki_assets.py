@@ -106,6 +106,16 @@ ASSETS = {
         "Santalalotze.png", "Slynth.png",
         "Hexagonal crystal.png", "Crystalline halo.png",
     ],
+    # Standalone place profile — Joppa, the starting village.
+    "10_joppa": [
+        "Ovw joppa.png", "Joppa town.png", "Elder irudad.png",
+        "Mehmet.png", "Nima ruda.png", "Tam dromad merchant.png",
+        "Warden yrame.png", "Watervine.png", "Watervine farmer.png",
+        "Vinewafer.png", "Iron vinereaper.png", "Gnawed watervine.png",
+        "Ovw red rock.png", "Girshling.png", "Girshling corpse.png",
+        "Baboon.png", "Slynth.png", "Salt marsh.png",
+        "Witchwood bark.png", "Starapple tree.png", "Joppa graveyard.png",
+    ],
 }
 
 
