@@ -29,8 +29,8 @@ the shade, and an old man will offer you a drink of water.
 > — *(conversation: Irudad)*
 
 This is Joppa. It is a watervine farm in a salt marsh, with a handful
-of residents, no walls to speak of, and almost nothing that anyone
-from the wider world would call important. And it is the most
+of residents and almost nothing that anyone from the wider world
+would call important. And it is the most
 important place in Caves of Qud — because it is the place all of that
 wider world is *for.*
 
@@ -75,9 +75,9 @@ the village survives on:
 *Just enough.* That phrase is the entire ecology of Joppa. The desert
 that should kill them instead exhales a thread of moisture as it
 cools, and that thread is the difference between a village and a
-graveyard. What they do with it is grow watervine — the staple crop
-of this whole region, the plant you wring for drinking water. As
-Mehmet puts it, with a farmer's flat pride: *"Watervine farm in the
+graveyard. What they do with it is grow watervine — the staple
+water-crop of this whole region. As Mehmet puts it, with a farmer's
+flat pride: *"Watervine farm in the
 lap of the marsh. You've sucked the moisture out a vinewafer, yea? We
 tend the plant here."* *(conversation: Mehmet)*
 
@@ -115,9 +115,8 @@ The second volume is even smaller, and it's about *dinner:*
 
 Ut yara Ux is a festival kept across Qud; what's recorded as Joppa's
 own is the food — *warm apple matz,* a dish made from matz, the
-flatbread-staple of the region. A whole volume of the village history
-is devoted to the fact that, at the festival, they eat warm apple
-bread. That is not a joke at Joppa's expense. It is the point. When
+staple of the region. A whole volume of the village history is
+devoted to the fact that, at the festival, they eat warm apple matz. That is not a joke at Joppa's expense. It is the point. When
 your history books are about the day you decided to farm and the
 dish you serve at the holiday, it means nothing catastrophic has ever
 been important enough to crowd them out. A peaceful history is a
@@ -154,7 +153,7 @@ and he watches the young leave for it without illusion. The
 adventurers who set off from villages like his, he says, go chasing
 *"their own splinter of artifact. To both Fates, life and death."*
 *(conversation: Irudad)* *Both Fates.* He has clearly watched people
-walk north out of Joppa and not come back, and he names it plainly:
+walk out of Joppa and not come back, and he names it plainly:
 some find a relic and a story, some find a grave, and the village
 elder loves them anyway and lets them go.
 
@@ -217,7 +216,7 @@ whole creed is *don't be trouble, and if you are, I'll handle it.*
 The peace of the world, in Joppa, is kept one croc-split at a time.
 
 And then there is Tam, who is not from here at all. Tam is a *dromad*
-— a saltstrider, one of the camel-like caravan-folk of the deep
+— a saltstrider, one of the caravan-folk of the deep
 desert — and Tam's story is the gentlest argument the village makes
 for itself:
 
