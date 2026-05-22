@@ -206,3 +206,25 @@ Regenerate with `python3 extractors/download_wiki_assets.py`.
 | `Witchwood bark.png` | 1 KB | [Witchwood bark.png](https://wiki.cavesofqud.com/wiki/File:Witchwood_bark.png) |
 | `Starapple tree.png` | 1 KB | [Starapple tree.png](https://wiki.cavesofqud.com/wiki/File:Starapple_tree.png) |
 | `Joppa graveyard.png` | 22 KB | [Joppa graveyard.png](https://wiki.cavesofqud.com/wiki/File:Joppa_graveyard.png) |
+
+## 11_golgotha
+
+| File | Size | Wiki source |
+|---|---:|---|
+| `Ovw golgotha.png` | 1 KB | [Ovw golgotha.png](https://wiki.cavesofqud.com/wiki/File:Ovw_golgotha.png) |
+| `Golgotha Surface.png` | 113 KB | [Golgotha Surface.png](https://wiki.cavesofqud.com/wiki/File:Golgotha_Surface.png) |
+| `Golgotha trash chutes.png` | 147 KB | [Golgotha trash chutes.png](https://wiki.cavesofqud.com/wiki/File:Golgotha_trash_chutes.png) |
+| `Golgotha Cloaca.png` | 220 KB | [Golgotha Cloaca.png](https://wiki.cavesofqud.com/wiki/File:Golgotha_Cloaca.png) |
+| `Slimy shaft.png` | 1 KB | [Slimy shaft.png](https://wiki.cavesofqud.com/wiki/File:Slimy_shaft.png) |
+| `Brown sludge.png` | 1 KB | [Brown sludge.png](https://wiki.cavesofqud.com/wiki/File:Brown_sludge.png) |
+| `Fuming vents.png` | 1 KB | [Fuming vents.png](https://wiki.cavesofqud.com/wiki/File:Fuming_vents.png) |
+| `Corpus choliys.png` | 1 KB | [Corpus choliys.png](https://wiki.cavesofqud.com/wiki/File:Corpus_choliys.png) |
+| `Ubernostrum injector.png` | 1 KB | [Ubernostrum injector.png](https://wiki.cavesofqud.com/wiki/File:Ubernostrum_injector.png) |
+| `Fermented yuckwheat stem.png` | 1 KB | [Fermented yuckwheat stem.png](https://wiki.cavesofqud.com/wiki/File:Fermented_yuckwheat_stem.png) |
+| `Honey.png` | 1 KB | [Honey.png](https://wiki.cavesofqud.com/wiki/File:Honey.png) |
+| `Girsh agolgot.png` | 1 KB | [Girsh agolgot.png](https://wiki.cavesofqud.com/wiki/File:Girsh_agolgot.png) |
+| `Girshling.png` | 1 KB | [Girshling.png](https://wiki.cavesofqud.com/wiki/File:Girshling.png) |
+| `Girshling corpse.png` | 1 KB | [Girshling corpse.png](https://wiki.cavesofqud.com/wiki/File:Girshling_corpse.png) |
+| `Agolmaggot.png` | 1 KB | [Agolmaggot.png](https://wiki.cavesofqud.com/wiki/File:Agolmaggot.png) |
+| `Slog of the cloaca.png` | 1 KB | [Slog of the cloaca.png](https://wiki.cavesofqud.com/wiki/File:Slog_of_the_cloaca.png) |
+| `Sewage eel.png` | 1 KB | [Sewage eel.png](https://wiki.cavesofqud.com/wiki/File:Sewage_eel.png) |

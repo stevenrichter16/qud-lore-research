@@ -116,6 +116,16 @@ ASSETS = {
         "Baboon.png", "Slynth.png", "Salt marsh.png",
         "Witchwood bark.png", "Starapple tree.png", "Joppa graveyard.png",
     ],
+    # Standalone place profile — Golgotha, the trash-cavern / Cloaca.
+    "11_golgotha": [
+        "Ovw golgotha.png", "Golgotha Surface.png",
+        "Golgotha trash chutes.png", "Golgotha Cloaca.png",
+        "Slimy shaft.png", "Brown sludge.png", "Fuming vents.png",
+        "Corpus choliys.png", "Ubernostrum injector.png",
+        "Fermented yuckwheat stem.png", "Honey.png",
+        "Girsh agolgot.png", "Girshling.png", "Girshling corpse.png",
+        "Agolmaggot.png", "Slog of the cloaca.png", "Sewage eel.png",
+    ],
 }
 
 

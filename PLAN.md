@@ -369,6 +369,30 @@ Two reasons:
   / Nima_Ruda / Tam / WardenYrame + HistoryofJoppa Vol 1-2 + the What's
   Eating the Watervine? quest. Visuals: 21 `10_joppa/` assets mapped per
   section.
+- [x] **Standalone one-off #6: Golgotha — The Cloaca of the World** —
+  written, ~3000 words, ~20 min, fully self-contained; a PLACE/horror
+  profile (the trash-cavern and the disease it breeds). Saved to
+  [`scripts/standalone_golgotha.md`](scripts/standalone_golgotha.md).
+  Thesis: in a world obsessed with height and ascent, Golgotha is the
+  counterweight — the cloaca, the place where everything the world
+  discards ends up, and the death it offers (glotrot — tongue necrosis)
+  is one of the quietest horrors in the game. 5 sections: Cold Open →
+  The Descent → The Rotting Tongue → The Cradle of Agolgot → The
+  Execrable Pilgrimage → The Cloaca of the World. Built on Mafeo
+  (advice quote) + Corpus Choliys (glotrot book) + Irudad (Agolgot
+  line) + JoppaWorld map data + More Than a Willing Spirit quest +
+  decompile (Glotrot.cs effect strings; AgolgotColumn.cs zone-builder
+  "cradle" display name). STANDALONE: Barathrumites / Grit Gate /
+  waydroids kept generic ("a proving ground / travelers make to test
+  themselves"); Agolgot's nephil/Gyre/chord nature omitted; glotrot ↔
+  Rebekah connection omitted; kept "a sleeper" (not "vast sleeper" —
+  unsourced). Visuals: 17 `11_golgotha/` assets mapped per section.
+  Two review passes (self + cold-eye agent) applied 4 fixes: Mafeo
+  ellipsis (restored omitted sentence), Irudad leading ellipsis (added
+  `...`), cure-paraphrase boundary (blockquoted cleanly from corpus
+  text), "vast sleeper" → "a sleeper."
+- [ ] **Standalone one-off #7: Sparafucile** — pending (character study
+  of the mute masked assassin/gunsmith).
 - [ ] Future / bonus candidates: The Mechanimist Faith (scripture
   deep-dive), The Coven & Folk Clock, "How Qud Generates Its Own
   History" (M6 synthesis as a script), Haddas the tree-mayor of Ezra,
@@ -379,6 +403,48 @@ Two reasons:
 ## Implementation log
 
 Append each session. Newest at top. Date in absolute form.
+
+### 2026-05-21 (cont.) — Standalone place profile: Golgotha, the Cloaca of the World
+
+User directed: write Golgotha + Sparafucile episodes (both with reviews),
+then push all to remote.
+
+- Corpus investigation: Golgotha's lore is deliberately thin in the corpus
+  (it's a main-quest proving-ground, not a society or character study).
+  Key sources: Mafeo (advice on visiting Golgotha), Corpus Choliys
+  (physician's book with the glotrot disease entry — origin, progression,
+  cure), Irudad (the "bilge hose of sleeping Agolgot" image), JoppaWorld
+  map data (trash-chute levels + the Cloaca floor label), the More Than a
+  Willing Spirit quest legend-template ("victorious and bathed in slime").
+  Decompile supplements: Glotrot.cs (the three effect strings — contracted,
+  rotting, rotted), AgolgotColumn.cs ("The cradle of Agolgot" display name
+  + lair structure below the Cloaca).
+- STANDALONE discipline: Golgotha is deeply entangled with the main quest
+  (Barathrumites send the player there to retrieve waydroids for Grit Gate)
+  and with the Gyre cosmology (Agolgot is a Girsh nephil with a "chord").
+  Both threads are deliberately omitted. The proving-ground role is kept
+  generic; Agolgot is "a sleeper" only. Glotrot's connection to Rebekah
+  ("the rotting tongue" killed her in ep 3) is also omitted.
+- Thesis: the dungeon that is a sewer; the death that takes your voice.
+  Where other one-offs are about how people live, Golgotha is about where
+  the world puts what it can't keep. Mood-piece and atmospheric place-horror
+  by design — Golgotha's sourced lore is sparse, so it trades breadth for
+  intensity.
+- Two review passes:
+  - Self pass: fixed "ungLorious" capitalization typo.
+  - Background cold-eye agent (corpus + wiki canon-check): found 4 issues.
+    Applied all 4: (1) Mafeo ellipsis restored full omitted sentence ("If
+    you can cook..."); (2) Irudad quote given leading `...` (the sentence
+    begins "This one covered in slick and..."); (3) cure-passage paraphrase
+    boundary restructured — ubernostrum block-quote now starts cleanly from
+    corpus text ("only the scarce ubernostrum tonic will cause it to
+    regrow..."); (4) "vast sleeper" → "a sleeper" (no corpus/decompile
+    source for Agolgot's size).
+- Downloaded 17 Golgotha tiles into `corpus/visual_assets/11_golgotha/`
+  (overworld + surface + trash chutes + Cloaca + shaft, Corpus Choliys,
+  yuckwheat + honey + ubernostrum, brown sludge, girsh agolgot +
+  girshling + agolmaggot, girshling corpse + sewage eel + slog of the
+  cloaca, fuming vents). 162 total assets now across 11 episode folders.
 
 ### 2026-05-21 (cont.) — Standalone place profile: Joppa, the People of the Vine
 
