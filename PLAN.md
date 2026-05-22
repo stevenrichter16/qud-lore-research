@@ -361,6 +361,53 @@ Two reasons:
 
 Append each session. Newest at top. Date in absolute form.
 
+### 2026-05-21 (cont.) — QC review round 3: cross-series consistency + edit validation + noun/number audit
+
+User: "do another quality control review of the scripts you've written
+so far" (third pass).
+
+Since rounds 1-2 already hit per-script quote-fidelity/canon twice, this
+round used three COMPLEMENTARY lenses the prior passes structurally
+could not cover, spawned as 3 parallel agents:
+- (A) CROSS-SERIES CONSISTENCY — read all 5 series scripts together and
+  checked for inter-episode contradictions (every prior agent saw only
+  one script in isolation).
+- (B) EDIT VALIDATION + UNSOURCED-NARRATION SWEEP — confirmed the 19
+  round-2 edits landed correctly, then swept the connective prose of all
+  9 scripts for asserted-but-unsourced lore.
+- (C) PROPER-NOUN + NUMBER AUDIT — spelling/capitalization consistency +
+  every numeric lore claim vs corpus.
+
+VERDICT: the 5-part series is internally consistent — no cross-episode
+contradictions (triumvirate membership, Rebekah's death across eps 2↔3,
+the Spindle's nature, the four Fates' Nephilim compact all agree). All
+19 round-2 edits validated PASS (no regressions). Proper nouns and
+numbers clean.
+
+ONE real fix — an unsourced detail hiding in NARRATION (the kind a
+quote-fidelity pass can't catch): **"ten thousand years"** (the span the
+Seraph/Spindle has waited) appeared in eps 1, 4, 5 but is NOT in the
+corpus. The corpus's term for this span is "THE SIDEREAL EON"
+(Resheph.md:141: "THE SIDEREAL EON DRAWTH DONE, AND THE COVEN DOTH
+RETURN"). Replaced "ten thousand years" → "a sidereal eon" in all three
+(consistent + corpus-grounded). It was internally consistent across the
+three episodes, so no prior pass flagged it — but it was an invented
+figure stated as fact, a strict-evidence violation.
+
+Agent findings VERIFIED AND REJECTED as false positives (cross-checked
+against source before acting):
+- "102 nodes of dialogue" (ep 5) — CORRECT; Resheph.md:11 declares "102
+  node(s)" (agent A's raw count of 104 had included the 2 Start headers).
+- "banana groves of the north" (ep 4) — CORRECT; the Spindle/Omonporch
+  is canonically northerly (Otho.md:163 "journey to Omonporch far to the
+  north"; The_Earl_of_Omonporch.md:27 "Travel north to the Spindle").
+- "Grand-doe"/"Grand-Doe" and "Covenate"/"covenate" variants — NOT
+  errors; each instance faithfully matches the speaker/source it quotes
+  (the lowercase forms are verbatim book text).
+
+Net: 3 edits across eps 1/4/5; all 9 scripts now triple-reviewed and
+strict-evidence clean. Committed + pushed.
+
 ### 2026-05-21 (cont.) — QC review round 2: all 8 prior scripts (corpus + live-wiki)
 
 User: "do another quality control review of the scripts you've written

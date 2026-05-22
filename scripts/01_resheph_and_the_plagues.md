@@ -21,7 +21,7 @@ who wants to check the source can.
 
 You have ascended. Through the Tomb of the Eaters, through Brightsheol,
 through the long climb of the Spindle's hollow throat. You stand now
-at the rim of a control pit where, for ten thousand years, something
+at the rim of a control pit where, for a sidereal eon, something
 has been waiting for you.
 
 It speaks.

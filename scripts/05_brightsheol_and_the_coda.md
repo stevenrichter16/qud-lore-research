@@ -28,7 +28,7 @@ place a faceless keeper called *"the dream"* — a city that twinkles
 aloft of Gjaus, where, in the keeper's words, *the Seraph dremen*
 *(conversation: Shomer)*.
 
-Something has been waiting here for ten thousand years. When it
+Something has been waiting here for a sidereal eon. When it
 notices you, it speaks in the only register it can lower itself to
 use:
 

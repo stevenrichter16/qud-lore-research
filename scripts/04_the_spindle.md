@@ -395,7 +395,7 @@ before us, carried forward?* The game does not answer Iseppa's
 question. It just leaves the Spindle standing there — Gjaus, the
 Star-Tree, the Blue Mother who breaks the sky — running from a
 burial ground full of the old dead up past a vault of heaven that,
-for ten thousand years, went quiet.
+for a sidereal eon, went quiet.
 
 In the next video, we'll go all the way up — into Brightsheol, the
 Seraph's dreamed city, and the choice the game finally hands the
