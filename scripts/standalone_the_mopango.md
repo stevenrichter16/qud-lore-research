@@ -25,7 +25,8 @@ speaks.]`
 
 Deep under an ancient tomb, past the things that want to kill you,
 there is a chain turret. Turrets in Caves of Qud are wall-mounted
-guns; they shoot you. This one turns toward you, crackles, and says:
+laser emplacements; they shoot you. This one — the player can call em
+*"Lightspitter"* — turns toward you, crackles, and says:
 
 > *"By Her Light, [traveler]. An [thou wouldst] rest peaceably,*
 > *[thou'rt] welcome here."*  
@@ -95,23 +96,29 @@ it. The mopango study it to stay small before it.
 `[VISUAL: a mopango glowing softly; the pale-white scale-light.]`
 
 The mopango greeting — *"By Her Light"* — points at their faith.
-They worship something called the **Kasaphescence**, a feminine
-divine principle whose light, they believe, is *within* them.
-Agyra lays out the theology:
+The **Kasaphescence** is not a mopango invention; She is one of the
+most widely worshipped deities in all of Qud. In the words of one of
+Her faithful elsewhere in the world, She is *"the being from whom
+all metal was birthed... There are pieces of Her in every chrome
+belfry and every machine,"* and Her reach extends past metal to
+*"Anything that's ordered... a poem, a mathematical proof."*
+*(conversation: Jacobo)* A goddess of metal, and of order itself.
+
+What is distinctly *mopango* is how they seek Her. Agyra lays out
+their version:
 
 > *"The Sacred Light of the Kasaphescence shineth within us... We*
 > *believe that one day, with enough knowledge, anyone who seeketh*
 > *the Light shalt find it within emself."*  
 > — *(conversation: Agyra)*
 
-This is a quietly radical religion. The Light is not in a temple, a
-relic, or a prophet. It is *latent in everyone*, and the path to it
-is not obedience or sacrifice but *knowledge.* Salvation, for a
-mopango, is an epistemology: study enough, understand enough, grow
-humble and wise enough, and the light you're looking for turns out
-to have been inside you the whole time. They don't even claim a
-monopoly on it — *anyone* who seeks the Light can find it. A faith
-with no chosen people.
+For the mopango, the Light of this metal-and-order goddess is
+reached not through obedience or sacrifice but through *knowledge* —
+studied, contemplated, communed-for. Salvation, for a mopango, is an
+epistemology: study enough, understand enough, grow humble and wise
+enough, and the Light turns out to have been within you the whole
+time. And they claim no monopoly on it — *anyone* who seeks the
+Light, mopango or not, can find it.
 
 When a mopango wishes you well, the blessing is *"May [thou] bathe
 ever in Her light"* — and a delighted mopango is described, in the
@@ -219,8 +226,11 @@ you — and a people whose entire faith is "seek the Light within
 yourself" will not rob you of the seeking. When the player blunders
 and asks Doyoba what eir credo means, the rebuke is perfect: *"Wouldst
 I shall chew [thy] food for [thee] as well?"* *(conversation:
-Doyoba)* — though ey, like every mopango, immediately forgives the
-outsider who didn't know better.
+Doyoba)* — though once the player apologizes, ey softens at once:
+*"I was too harsh... I am not wroth with [thee]."* That gentleness
+is the mopango norm, if not quite universal — press Yona on the same
+taboo and the answer stays cool: *"I am not offended, simply making
+[thee] aware of [thy] foolishness."* *(conversation: Yona)*
 
 ---
 
@@ -237,7 +247,7 @@ psychometry. When Doyoba communes with a strange recovered device,
 the experience is physical and painful:
 
 > *"By her light, that was unpleasant. How it twisted and turned,*
-> *leading me to visions of [the past], scraps and flashes. I can*
+> *leading me to visions of Nacham's past, scraps and flashes. I can*
 > *discern only glimpses of significance."*  
 > — *(conversation: Doyoba)*
 

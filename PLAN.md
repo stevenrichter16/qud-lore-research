@@ -344,6 +344,46 @@ Two reasons:
 
 Append each session. Newest at top. Date in absolute form.
 
+### 2026-05-20 (cont.) — Comprehensive corpus+WIKI canon review of both one-offs
+
+User asked for a comprehensive correctness review of the two one-offs
+against the REAL lore (not just the corpus). Spawned two agents that
+cross-checked each script against the live Caves of Qud wiki (via the
+MediaWiki API with a browser UA). This caught a real canon error the
+corpus-only passes had missed.
+
+**Mopango — NEEDS-EDITS (1 hard canon contradiction):**
+- 🔴 **Kasaphescence.** The script framed it as a mopango-private
+  inner-light divinity ("no chosen people," "not in a temple/relic").
+  WRONG: the Kasaphescence is one of Qud's most widely-worshipped
+  deities — the Mechanimist goddess of metal and order ("the being
+  from whom all metal was birthed... Anything that's ordered, She
+  infuses" — Jacobo.md:167, verified). Rewrote §II to situate Her
+  correctly (Qud-wide goddess of metal/order) and frame the mopango's
+  distinctive *inner-light-through-knowledge* reading as their own
+  way of seeking Her. Cited Jacobo as "one of Her faithful elsewhere"
+  (no arc-leakage).
+- 🔴 "like every mopango, immediately forgives" — false; Yona ("simply
+  making thee aware of thy foolishness") and Dadogom are sharp, and
+  Vivira refuses if you call the taboo "ridiculous." Rewrote to quote
+  Doyoba's actual forgiveness ("I was too harsh... I am not wroth")
+  and note it's "the norm, if not quite universal," with Yona's cool
+  counter (verified Yona.md:86,96).
+- 🔵 restored "Nacham's past" (pointless redaction); 🔵 Vivira is a
+  laser emplacement ("Lightspitter"), not a gun — fixed, harmonizes
+  with "By Her Light."
+
+**Bey Lah — READY (canon-accurate).** The agent verified Keh/Kindrish/
+exile system, the Eskhind↔Neelahind romance, the misgendered sibling,
+the lah lifecycle, and the multi-ending design all against the wiki —
+all correct. Applied the two optional 🔵 polish items: added a
+corpus-grounded deer-centaur silhouette clause (Eskhind: "canters,"
+"hooves stamp the packed earth") so viewers don't picture a biped;
+and "two hindren" → "two faundren" (the rhyme's own word).
+
+Lesson logged: corpus-fidelity ≠ canon-fidelity. The wiki cross-check
+is now part of the comprehensive-review step.
+
 ### 2026-05-20 (cont.) — Re-review of Bey Lah (READY) + standalone #2: the Mopango
 
 - Re-reviewed the final Bey Lah script with a fresh cold-eye agent at

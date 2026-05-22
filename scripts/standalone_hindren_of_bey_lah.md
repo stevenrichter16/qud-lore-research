@@ -65,9 +65,13 @@ almost as a warning, that *"hindren pariahs who learn to fight live
 longer than most of Qud's wayfarers."*
 
 So this is the first surprising thing about the hindren. They are
-*not* weak. They are big, strong, antlered, and perfectly capable of
-defending themselves. Their fear is not the fear of the helpless. It
-is a choice — a cultural one — and that makes it far stranger.
+*not* weak. They are big, strong, antlered, and — for all that
+"deer-people" might suggest a biped — built more like deer-centaurs:
+they *canter* on hooves ("hooves stamp the packed earth," the game
+notes elsewhere) below a humanoid, arm-bearing torso. They are
+perfectly capable of defending themselves. Their fear is not the
+fear of the helpless. It is a choice — a cultural one — and that
+makes it far stranger.
 
 ---
 
@@ -109,7 +113,7 @@ We'll come back to why.
 
 Even the children's songs are about it. The faundren — the hindren
 young — sing a nursery rhyme that the chef recorded, about two
-hindren who ate from their lah field and then forgot to tend it:
+faundren who ate from their lah field and then forgot to tend it:
 
 > *"Now Elohart and Belahind / lie in a field of lah / because their*
 > *fields got hungry / and devoured the faundren raw."*  
