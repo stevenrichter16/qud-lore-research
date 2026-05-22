@@ -118,3 +118,26 @@ Regenerate with `python3 extractors/download_wiki_assets.py`.
 | `Hindren pariah.png` | 1 KB | [Hindren pariah.png](https://wiki.cavesofqud.com/wiki/File:Hindren_pariah.png) |
 | `Kindrish.png` | 1 KB | [Kindrish.png](https://wiki.cavesofqud.com/wiki/File:Kindrish.png) |
 | `Agate severance star.png` | 1 KB | [Agate severance star.png](https://wiki.cavesofqud.com/wiki/File:Agate_severance_star.png) |
+
+## 07_mopango
+
+| File | Size | Wiki source |
+|---|---:|---|
+| `Vivira.png` | 1 KB | [Vivira.png](https://wiki.cavesofqud.com/wiki/File:Vivira.png) |
+| `Agyra.png` | 1 KB | [Agyra.png](https://wiki.cavesofqud.com/wiki/File:Agyra.png) |
+| `Doyoba.png` | 1 KB | [Doyoba.png](https://wiki.cavesofqud.com/wiki/File:Doyoba.png) |
+| `Dadogom.png` | 1 KB | [Dadogom.png](https://wiki.cavesofqud.com/wiki/File:Dadogom.png) |
+| `Gyamyo.png` | 1 KB | [Gyamyo.png](https://wiki.cavesofqud.com/wiki/File:Gyamyo.png) |
+| `Yona.png` | 1 KB | [Yona.png](https://wiki.cavesofqud.com/wiki/File:Yona.png) |
+| `Lebah.png` | 1 KB | [Lebah.png](https://wiki.cavesofqud.com/wiki/File:Lebah.png) |
+| `Mopango watcher.png` | 1 KB | [Mopango watcher.png](https://wiki.cavesofqud.com/wiki/File:Mopango_watcher.png) |
+| `Mopango pilgrim.png` | 1 KB | [Mopango pilgrim.png](https://wiki.cavesofqud.com/wiki/File:Mopango_pilgrim.png) |
+| `Mopango tombdweller.png` | 1 KB | [Mopango tombdweller.png](https://wiki.cavesofqud.com/wiki/File:Mopango_tombdweller.png) |
+| `Mopango charioteer.png` | 1 KB | [Mopango charioteer.png](https://wiki.cavesofqud.com/wiki/File:Mopango_charioteer.png) |
+| `Nacham.png` | 1 KB | [Nacham.png](https://wiki.cavesofqud.com/wiki/File:Nacham.png) |
+| `Dagasha.png` | 1 KB | [Dagasha.png](https://wiki.cavesofqud.com/wiki/File:Dagasha.png) |
+| `Vaam.png` | 1 KB | [Vaam.png](https://wiki.cavesofqud.com/wiki/File:Vaam.png) |
+| `Kah.png` | 1 KB | [Kah.png](https://wiki.cavesofqud.com/wiki/File:Kah.png) |
+| `Kgoninon.png` | 1 KB | [Kgoninon.png](https://wiki.cavesofqud.com/wiki/File:Kgoninon.png) |
+| `Conservator.png` | 1 KB | [Conservator.png](https://wiki.cavesofqud.com/wiki/File:Conservator.png) |
+| `Repulsive device.png` | 1 KB | [Repulsive device.png](https://wiki.cavesofqud.com/wiki/File:Repulsive_device.png) |

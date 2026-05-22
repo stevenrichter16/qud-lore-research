@@ -78,6 +78,15 @@ ASSETS = {
         "Faundren villager.png", "Hindren pariah.png",
         "Kindrish.png", "Agate severance star.png",
     ],
+    # One-off standalone episode — the mopango (the buried watchers).
+    "07_mopango": [
+        "Vivira.png", "Agyra.png", "Doyoba.png", "Dadogom.png",
+        "Gyamyo.png", "Yona.png", "Lebah.png",
+        "Mopango watcher.png", "Mopango pilgrim.png",
+        "Mopango tombdweller.png", "Mopango charioteer.png",
+        "Nacham.png", "Dagasha.png", "Vaam.png", "Kah.png",
+        "Kgoninon.png", "Conservator.png", "Repulsive device.png",
+    ],
 }
 
 

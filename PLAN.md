@@ -316,18 +316,67 @@ Two reasons:
   (the aspiring detective), Warden Neelahind (arbiter + Eskhind's
   love). Visuals: 16 downloaded `06_bey_lah/` assets mapped per
   section.
+- [x] **Standalone one-off #2: The Mopango — The Buried Watchers** —
+  written, ~3500 words, ~23 min, fully self-contained, a DIFFERENT
+  faction from Bey Lah. Saved to
+  [`scripts/standalone_the_mopango.md`](scripts/standalone_the_mopango.md).
+  Thesis: a society built on humility, inquiry, and care — the exact
+  inverse of Bey Lah's fear. The mopango are consensus-governed
+  archivist-contemplatives who worship a latent inner light (the
+  Kasaphescence), abolished gender (ey/em/eir), build mobility aids
+  for disabled members, adopt outsiders, "watch the past" by communing
+  with relics, care for ancient confined beings they call "the
+  children," and each live by a personal *credo* it is taboo to ask
+  them to explain. Signature move: the script quotes three credos
+  (Vivira's "Form needeth not follow function," Agyra's "Malice alone
+  staineth the sanctity of questioning," Doyoba's "Suffering breedeth
+  in still water") and obeys the taboo by refusing to explain them.
+  18 downloaded `07_mopango/` assets mapped per section.
 - [ ] Future / bonus candidates: The Mechanimist Faith (scripture
   deep-dive), The Coven & Folk Clock, "How Qud Generates Its Own
   History" (M6 synthesis as a script), Haddas the tree-mayor of Ezra,
-  the Putus Templar, character studies (Q Girl, Hortensa, Otho), and
-  more standalones (the Mopango and their "credos"; Chavvah the living
-  city; Kyakukya/Oboroqoru).
+  the Putus Templar, character studies (Q Girl, Hortensa, Otho),
+  Chavvah the living city, Kyakukya/Oboroqoru.
 
 ---
 
 ## Implementation log
 
 Append each session. Newest at top. Date in absolute form.
+
+### 2026-05-20 (cont.) — Re-review of Bey Lah (READY) + standalone #2: the Mopango
+
+- Re-reviewed the final Bey Lah script with a fresh cold-eye agent at
+  the user's request: verdict **READY** — all four prior corrections
+  confirmed correct, every blockquote verbatim, outcomes a menu, fully
+  self-contained. No further edits.
+- Picked a DIFFERENT faction for a second standalone: **the mopango**
+  (19 source files, two own quests, dedicated NPCs). Deliberately the
+  thematic inverse of Bey Lah — humility/inquiry/care vs.
+  fear/isolation; consensus vs. gerontocracy; gender abolished vs.
+  gender-policed; adoption vs. erasure.
+- Investigated first: Vivira (the gentle chain-turret guard), Agyra
+  (the hospitable spokesperson), Doyoba (keeper of the "child" Nacham),
+  Zothom (the outsider's description), and the two quests.
+- Wrote a self-contained 7-section essay. The Tomb of the Eaters is
+  named only as the mopango's home; the Eaters/Sultans/Resheph plot is
+  NOT explained, keeping it standalone and distinct from the series.
+- Downloaded 18 mopango assets into `corpus/visual_assets/07_mopango/`
+  (added the topic to `download_wiki_assets.py`; 95 total assets now).
+- Review pass 1 (self gap-coverage): 4 fixes — preserved the in-game
+  spelling "acquaintence"; corrected "granteth"→"grants" (Agyra
+  relaying Lebah); 🔴 fixed a misattribution (the "An thou sendest void
+  away..." line is Doyoba's, not Agyra's); fixed a visual-table
+  filename (Kgoninon.png). Review pass 2: cold-eye verification agent
+  — verdict NEEDS-EDITS, all minor: two verbatim quotes silently
+  dropped the word "me" ("kept [me] safe and fed [me]"; "uplifted
+  [me]... cared for [me]"), restored; and "they describe themselves as
+  glowing" overstated a stage direction, softened to "described... as
+  glowing softly." Agent confirmed everything else clean: all three
+  credos + correct speakers, the corrected Doyoba attribution, the
+  "grants freedom" relayed-claim framing, the credo-taboo restraint,
+  player-choice neutrality, ey/em pronoun usage, and full
+  self-containment (no Resheph/Spindle/Bey-Lah leakage). Result: READY.
 
 ### 2026-05-20 (cont.) — Standalone one-off: the hindren of Bey Lah
 
