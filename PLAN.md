@@ -305,16 +305,70 @@ Two reasons:
   Four Fates (Covenant/Return/Accession/Starfarer) → The Coda (the
   Inheritor Godling + Fool of the Gyre, four variants) → What Became
   of the Nephilim → The Question (series close).
+- [x] **Standalone one-off: The Hindren of Bey Lah — A Village Built
+  on Fear** — written, ~3500 words, ~24 min, fully self-contained
+  (deliberately NO Resheph/Spindle/series references). Saved to
+  [`scripts/standalone_hindren_of_bey_lah.md`](scripts/standalone_hindren_of_bey_lah.md).
+  Thesis: fear as a functioning social technology. Self-contained
+  quest cluster (Petals on the Wind → Kith and Kin → Find Eskhind →
+  Love and Fear). Cast: Hindriarch Keh (the fearful tyrant who
+  weaponizes the exile system), Eskhind (the framed exile), Angohind
+  (the aspiring detective), Warden Neelahind (arbiter + Eskhind's
+  love). Visuals: 16 downloaded `06_bey_lah/` assets mapped per
+  section.
 - [ ] Future / bonus candidates: The Mechanimist Faith (scripture
   deep-dive), The Coven & Folk Clock, "How Qud Generates Its Own
   History" (M6 synthesis as a script), Haddas the tree-mayor of Ezra,
-  the Putus Templar, character studies (Q Girl, Hortensa, Otho).
+  the Putus Templar, character studies (Q Girl, Hortensa, Otho), and
+  more standalones (the Mopango and their "credos"; Chavvah the living
+  city; Kyakukya/Oboroqoru).
 
 ---
 
 ## Implementation log
 
 Append each session. Newest at top. Date in absolute form.
+
+### 2026-05-20 (cont.) — Standalone one-off: the hindren of Bey Lah
+
+- User asked for a one-off episode unrelated to the Resheph arc,
+  watchable on its own — suggested an interesting faction. Surveyed
+  candidates; picked the **hindren of Bey Lah** (105 Bey Lah mentions,
+  rich + clearly standalone: its own quest cluster, zero main-quest
+  connection).
+- Investigated first: the two culture books (Fauns of the Meadow, by
+  the hunter-scholar Kaylenn Sand-Shell; Blood and Fear, by Chef Agate
+  Severance Star), the four quests, and the key NPCs (Hindriarch Keh,
+  Eskhind, Angohind). Core finding: hindren culture is built on
+  *cultivated* fear — they fear outsiders ("kendren"), fear each
+  other, and their staple crop (the lah plant) is itself a
+  fear-weapon grown from "blood and fear." Plus a brutal exile system
+  (leavers are erased, called "the dead") and a corrupt Grand-Doe who
+  frames an exile for stealing the heirloom Kindrish.
+- Wrote a self-contained 9-section essay. Deliberately omitted the
+  incidental "Resheph"-oath and "shadow of the spindle" lines that
+  appear in Bey Lah texts, to keep the episode standalone.
+- Downloaded 16 Bey Lah wiki tiles into `corpus/visual_assets/06_bey_lah/`
+  (added the topic to `download_wiki_assets.py`; 77 total assets now).
+- Review pass 1 (self gap-coverage): every quote verified against the
+  sources; clean. Review pass 2: cold-eye verification agent — verdict
+  NEEDS-EDITS, one 🔴 + two 🟡, standalone-ness confirmed intact, all
+  other quotes verbatim. 4 fixes applied:
+  - 🔴 §VII spliced Eskhind's "ideal patsies" line (node `What are you
+    saying?`, :112) with the "gerontocracy ensures..." line (node
+    `You claim innocence?`, :124-126) — two mutually-exclusive
+    branches — into one quote. Separated into two sourced exchanges.
+  - 🟡 §VIII "close friends as children" is Keh's minimizing phrase
+    (Keh.md:81), not the lovers' own. Re-attributed to Keh and
+    contrasted with Eskhind's verified "We were close. More than
+    close..." (Eskhind.md:341).
+  - 🟡 §II fable paraphrase corrected (they ate from the field, then
+    forgot to tend it).
+  - bonus: strengthened §VI's gender-denial beat with Eskhind's now-
+    verified counter, "I have no brother. My two sisters are all the
+    blood family I can claim" (Eskhind.md:359).
+  - Agent confirmed: no Resheph/Spindle/Barathrum/Rebekah/Coda
+    reference anywhere in the body — fully self-contained.
 
 ### 2026-05-20 (cont.) — Visual assets DOWNLOADED + Episode 5 (finale)
 

@@ -97,3 +97,24 @@ Regenerate with `python3 extractors/download_wiki_assets.py`.
 | `Hologram of outworlder.png` | 1 KB | [Hologram of outworlder.png](https://wiki.cavesofqud.com/wiki/File:Hologram_of_outworlder.png) |
 | `Hologram bracelet.png` | 1 KB | [Hologram bracelet.png](https://wiki.cavesofqud.com/wiki/File:Hologram_bracelet.png) |
 | `Barathrum the old.png` | 1 KB | [Barathrum the old.png](https://wiki.cavesofqud.com/wiki/File:Barathrum_the_old.png) |
+
+## 06_bey_lah
+
+| File | Size | Wiki source |
+|---|---:|---|
+| `Bey lah.png` | 76 KB | [Bey lah.png](https://wiki.cavesofqud.com/wiki/File:Bey_lah.png) |
+| `Flower fields.png` | 1 KB | [Flower fields.png](https://wiki.cavesofqud.com/wiki/File:Flower_fields.png) |
+| `Ovw bey lah.png` | 1 KB | [Ovw bey lah.png](https://wiki.cavesofqud.com/wiki/File:Ovw_bey_lah.png) |
+| `Eskhind.png` | 1 KB | [Eskhind.png](https://wiki.cavesofqud.com/wiki/File:Eskhind.png) |
+| `Hindriarch keh.png` | 1 KB | [Hindriarch keh.png](https://wiki.cavesofqud.com/wiki/File:Hindriarch_keh.png) |
+| `Warden neelahind.png` | 1 KB | [Warden neelahind.png](https://wiki.cavesofqud.com/wiki/File:Warden_neelahind.png) |
+| `Angohind.png` | 1 KB | [Angohind.png](https://wiki.cavesofqud.com/wiki/File:Angohind.png) |
+| `Kesehind.png` | 1 KB | [Kesehind.png](https://wiki.cavesofqud.com/wiki/File:Kesehind.png) |
+| `Isahind.png` | 1 KB | [Isahind.png](https://wiki.cavesofqud.com/wiki/File:Isahind.png) |
+| `Lulihart.png` | 1 KB | [Lulihart.png](https://wiki.cavesofqud.com/wiki/File:Lulihart.png) |
+| `Hindren villager.png` | 1 KB | [Hindren villager.png](https://wiki.cavesofqud.com/wiki/File:Hindren_villager.png) |
+| `Hindren scout.png` | 1 KB | [Hindren scout.png](https://wiki.cavesofqud.com/wiki/File:Hindren_scout.png) |
+| `Faundren villager.png` | 1 KB | [Faundren villager.png](https://wiki.cavesofqud.com/wiki/File:Faundren_villager.png) |
+| `Hindren pariah.png` | 1 KB | [Hindren pariah.png](https://wiki.cavesofqud.com/wiki/File:Hindren_pariah.png) |
+| `Kindrish.png` | 1 KB | [Kindrish.png](https://wiki.cavesofqud.com/wiki/File:Kindrish.png) |
+| `Agate severance star.png` | 1 KB | [Agate severance star.png](https://wiki.cavesofqud.com/wiki/File:Agate_severance_star.png) |

@@ -69,6 +69,15 @@ ASSETS = {
         "Hologram of outworlder.png", "Hologram bracelet.png",
         "Barathrum the old.png",
     ],
+    # One-off standalone episode — the hindren of Bey Lah.
+    "06_bey_lah": [
+        "Bey lah.png", "Flower fields.png", "Ovw bey lah.png",
+        "Eskhind.png", "Hindriarch keh.png", "Warden neelahind.png",
+        "Angohind.png", "Kesehind.png", "Isahind.png", "Lulihart.png",
+        "Hindren villager.png", "Hindren scout.png",
+        "Faundren villager.png", "Hindren pariah.png",
+        "Kindrish.png", "Agate severance star.png",
+    ],
 }
 
 
