@@ -207,6 +207,22 @@ Regenerate with `python3 extractors/download_wiki_assets.py`.
 | `Starapple tree.png` | 1 KB | [Starapple tree.png](https://wiki.cavesofqud.com/wiki/File:Starapple_tree.png) |
 | `Joppa graveyard.png` | 22 KB | [Joppa graveyard.png](https://wiki.cavesofqud.com/wiki/File:Joppa_graveyard.png) |
 
+## 12_sparafucile
+
+| File | Size | Wiki source |
+|---|---:|---|
+| `Sparafucile.png` | 1 KB | [Sparafucile.png](https://wiki.cavesofqud.com/wiki/File:Sparafucile.png) |
+| `Hortensa.png` | 1 KB | [Hortensa.png](https://wiki.cavesofqud.com/wiki/File:Hortensa.png) |
+| `Otho.png` | 1 KB | [Otho.png](https://wiki.cavesofqud.com/wiki/File:Otho.png) |
+| `Mafeo.png` | 1 KB | [Mafeo.png](https://wiki.cavesofqud.com/wiki/File:Mafeo.png) |
+| `Neek.png` | 1 KB | [Neek.png](https://wiki.cavesofqud.com/wiki/File:Neek.png) |
+| `Shem-1.png` | 1 KB | [Shem-1.png](https://wiki.cavesofqud.com/wiki/File:Shem-1.png) |
+| `Chromeling.png` | 1 KB | [Chromeling.png](https://wiki.cavesofqud.com/wiki/File:Chromeling.png) |
+| `Carbine.png` | 1 KB | [Carbine.png](https://wiki.cavesofqud.com/wiki/File:Carbine.png) |
+| `Chain pistol.png` | 1 KB | [Chain pistol.png](https://wiki.cavesofqud.com/wiki/File:Chain_pistol.png) |
+| `Grit gate town.png` | 58 KB | [Grit gate town.png](https://wiki.cavesofqud.com/wiki/File:Grit_gate_town.png) |
+| `Ovw grit gate.png` | 1 KB | [Ovw grit gate.png](https://wiki.cavesofqud.com/wiki/File:Ovw_grit_gate.png) |
+
 ## 11_golgotha
 
 | File | Size | Wiki source |

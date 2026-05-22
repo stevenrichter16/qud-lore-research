@@ -391,8 +391,26 @@ Two reasons:
   ellipsis (restored omitted sentence), Irudad leading ellipsis (added
   `...`), cure-paraphrase boundary (blockquoted cleanly from corpus
   text), "vast sleeper" → "a sleeper."
-- [ ] **Standalone one-off #7: Sparafucile** — pending (character study
-  of the mute masked assassin/gunsmith).
+- [x] **Standalone one-off #7: Sparafucile — The Finest Gunsmith** —
+  written, ~2800 words, ~19 min, fully self-contained; a CHARACTER STUDY
+  of the Barathrumite enclave's master gunsmith. Saved to
+  [`scripts/standalone_sparafucile.md`](scripts/standalone_sparafucile.md).
+  Thesis: the finest gunsmith in Grit Gate is deaf and mute, speaks
+  entirely in gesture, and the game treats his silence not as an
+  obstacle to overcome but as simply the condition of the life.
+  5 sections: Cold Open → The Mark → The Silence → The Language
+  → The Bear of Few Words → The Craftsman's Gift. Built on
+  Sparafucile's conversation (all 23 gesture-only nodes), Hortensa's
+  description ("beams like the high salt sun"), Otho's attribution
+  ("mark of our finest gunsmith"), Shem's workbench line, Neek's
+  community roll-call. STANDALONE: Barathrum not named (the episode's
+  main-quest role never narrated); Resheph / Spindle / Rebekah / Gyre
+  omitted; Bethesda Susa named only as context for the warning gesture.
+  Visuals: 11 `12_sparafucile/` assets mapped per section. Two review
+  passes (self + cold-eye agent): 5 findings; 4 mandatory fixed
+  (geographic descriptor, Hortensa "scientist" → "liquid-tinkerer /
+  wisewoman in dialogue", unsourced community catalogs ×2, Cold Open
+  pronoun inconsistency); 1 advisory (staging detail) accepted.
 - [ ] Future / bonus candidates: The Mechanimist Faith (scripture
   deep-dive), The Coven & Folk Clock, "How Qud Generates Its Own
   History" (M6 synthesis as a script), Haddas the tree-mayor of Ezra,
@@ -403,6 +421,54 @@ Two reasons:
 ## Implementation log
 
 Append each session. Newest at top. Date in absolute form.
+
+### 2026-05-21 (cont.) — Standalone character study: Sparafucile, the Finest Gunsmith
+
+Corpus investigation: all 5 sources identified and read:
+- Sparafucile.md (the 23-node conversation — entirely gesture-based)
+- Hortensa.md:347 ("beams like the high salt sun")
+- Otho.md:15,32 ("mark of our finest gunsmith")
+- Shem.md:100 (workbench / screws replaced)
+- Neek.md:87 (community roll-call)
+
+No decompile needed — all lore is in the corpus conversations. No books,
+quests, or world data required.
+
+Thesis: the paradox of the finest gunsmith who cannot hear the guns fire,
+and the game's refusal to treat that as a deficit — he is "the finest
+gunsmith, Sparafucile" without qualification.
+
+STANDALONE discipline: Barathrum (episode 2) not named; the enclave's
+Spindle/signal/waydroid quest role not narrated. Bethesda Susa appears
+only as context for the SparaSusa warning gesture. No Resheph, Rebekah,
+Gyre, Girsh, or nephilim.
+
+Visual assets: 11 tiles confirmed via MediaWiki API curl, downloaded into
+`corpus/visual_assets/12_sparafucile/`. 173 total assets across 12 episode
+folders.
+
+Self-review (pre-launch): found and fixed 3 quote-fidelity issues before
+the cold-eye agent ran: LiveDrinkSign started with "=pronouns.Subjective=
+makes" (should be "Sparafucile makes"); SparaFam block-quote started
+mid-sentence without leading subject; SparaSusa inline bridge replaced
+subject noun with "He" — restructured all three.
+
+Cold-eye agent review: 5 findings.
+  🟡 "deep in the rock below the eastern plains" — unsourced geographic
+     descriptor → removed, simplified to "Grit Gate"
+  🟡 Hortensa as "scientist of liquids... under pressure" — Hortensa
+     self-describes as "wisewoman in dialogue"; "under pressure" not in
+     corpus → changed to "liquid-tinkerer... wisewoman in dialogue"
+     (already fixed before agent, confirmed fixed)
+  🟡 "full of scientists and engineers and strategists" — unsourced → cut
+  🔵 "a carbine laid nearby" — minor staging beyond corpus → removed, kept
+     "at his workbench" which is corpus-grounded (SparaSusa, Shem)
+  🔵 wary-look Start node as canonical encounter → added "in one greeting"
+     hedge in Cold Open
+
+Also fixed Cold Open pronoun inconsistency: opened with "they/them" then
+switched to "he/him" — unified to "he/him" throughout (corpus-supported
+by Hortensa:347 and SparaStumped:82 and SparaThank:189).
 
 ### 2026-05-21 (cont.) — Standalone place profile: Golgotha, the Cloaca of the World
 

@@ -116,6 +116,13 @@ ASSETS = {
         "Baboon.png", "Slynth.png", "Salt marsh.png",
         "Witchwood bark.png", "Starapple tree.png", "Joppa graveyard.png",
     ],
+    # Standalone character study — Sparafucile, the finest gunsmith.
+    "12_sparafucile": [
+        "Sparafucile.png", "Hortensa.png", "Otho.png", "Mafeo.png",
+        "Neek.png", "Shem-1.png", "Chromeling.png",
+        "Carbine.png", "Chain pistol.png",
+        "Grit gate town.png", "Ovw grit gate.png",
+    ],
     # Standalone place profile — Golgotha, the trash-cavern / Cloaca.
     "11_golgotha": [
         "Ovw golgotha.png", "Golgotha Surface.png",
