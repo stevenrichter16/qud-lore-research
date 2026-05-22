@@ -231,12 +231,13 @@ game does with an ending.
 Fool of the gyre (05_brightsheol/Fool of the gyre.png); a ruined
 far-future Qud.]`
 
-Long after the events of the game — centuries, maybe longer — two
-figures recount your story as ancient legend. One is a being who
-calls itself, among other names, the Inheritor and the Godling.
-The other is the Fool of the Gyre, who tells the same story in
-verse. This is the Coda, and the tale it tells depends entirely on
-the fate you chose.
+Long after the events of the game — centuries, maybe longer — your
+story is recounted as ancient legend by one of two figures, which
+one depending on the path you walked. In some endings the teller is
+a being who calls itself, among other names, the Inheritor and the
+Godling. In others it is the Fool of the Gyre, who tells the same
+story in verse. This is the Coda, and the tale it tells depends
+entirely on the fate you chose.
 
 The Godling describes itself in terms that quietly mirror the
 player:
@@ -294,8 +295,9 @@ allies against Resheph rather than a peace pledge; only the dark
 Accession ending makes them partners in dooming the world.) The
 Nephilim — the engineered Girsh titans Resheph reared in star
 orbit, the "greatest of the Gyre's plagues" — are not, in the
-peace endings, destroyed. They are *reconciled.* The Godling's
-account is one of the gentler notes in the whole game:
+peace endings, destroyed. They are *reconciled.* In the Covenant
+ending, the Godling's account is one of the gentler notes in the
+whole game:
 
 > *"They lived. Simply a part of the world now, no longer a cilice*
 > *scourging the Earth, they lived as the creatures they were.*

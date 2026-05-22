@@ -27,7 +27,7 @@ called a Templar Domesticant, and they go like this:
 > *"Newfather! Look!"*  
 > *"Are you proud, Newfather?"*  
 > *"Newfather!"*  
-> — *(book/conversation: Templar Domesticant)*
+> — *(book: Templar Domesticant)*
 
 That is all it says. A servant, calling for a "Newfather," desperate
 to know if it did well. To understand who the Newfather is — and what
@@ -64,7 +64,7 @@ the thing that makes them holy, and everyone outside it as lesser.
 You can see their faith in their gear. The Templar carry a shield
 called an Aegis, and a real one *"would bear the holy rhombus,"* the
 order's sacred symbol. *(conversation: Une)* A blank Aegis — one with
-no rhombus — is, as one former associate puts it, something *"no
+no rhombus — is, as one masked warden puts it, something *"no
 knight would be caught dead carrying."* The rhombus is the mark of
 belonging. To carry the shield without it is to be no one.
 
@@ -163,11 +163,11 @@ humanity, who are, in the festival diptych's phrase, mere *"detritus
 of the unreclaimed."* And Q Girl told us the order *"indoctrinate[s]
 the privileged among their subjects"* through ritual. The Templar
 Domesticant is what that indoctrination can produce. A *domesticant*
-— the word means a domesticated servant — whose entire surviving
+— a name that suggests a domesticated servant — whose entire surviving
 speech is four lines of yearning for the approval of a "Newfather":
 
 > *"Did I do well, Newfather? ... Are you proud, Newfather?"*  
-> — *(book/conversation: Templar Domesticant)*
+> — *(book: Templar Domesticant)*
 
 *Newfather.* Not father — *new*father. The word does the work. This
 is a being that addresses a Templar as the father at the center of
@@ -237,7 +237,7 @@ manufacturing loyalty out of terror: every squire learns exactly what
 waits at the bottom of the ladder, and clings all the harder to their
 rung. *Oudin* — named in the diptych as the owner of the "mighty
 arm" at whose far end these squires are the lowest "digits," and
-elsewhere as the holder of the outposts themselves — is the distant
+in the same prayer as the holder of the outposts themselves — is the distant
 authority the whole structure answers to. (The corpus names Oudin
 only through these possessives; what exactly Oudin *is* — a person, a
 seat of power, a stronghold — it leaves unsaid, and so will the
@@ -304,9 +304,9 @@ is the more dangerous kind. Chaos burns out. Orthodoxy *reproduces.*
 The Gyre wights smash things and scatter. The Templar build a ladder,
 write a catechism, hold a festival, and raise the next generation to
 maintain all three. Their cruelty has *infrastructure.* It has a holy
-symbol, a baptism, a slave caste, a scapegoat ritual, and a word —
-*reclamation* — for turning a captured person into a Domesticant who
-asks only whether it did well.
+symbol, a baptism, a slave caste, a scapegoat ritual, and a
+vocabulary of the *reclaimed* that can turn a conquered person into a
+servant like the Domesticant, who asks only whether it did well.
 
 And against all of that, the game offers one quiet rebuttal, and it
 isn't a sword. It's Une: a knight who scraped the rhombus off eir

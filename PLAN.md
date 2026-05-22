@@ -361,6 +361,88 @@ Two reasons:
 
 Append each session. Newest at top. Date in absolute form.
 
+### 2026-05-21 (cont.) — QC review round 2: all 8 prior scripts (corpus + live-wiki)
+
+User: "do another quality control review of the scripts you've written
+so far."
+
+Method: spawned 8 parallel cold-eye general-purpose agents (one per
+script — Resheph series 1-5 + Bey Lah, Mopango, Putus Templar), each
+doing line-by-line quote-fidelity vs. the corpus AND a live-wiki canon
+cross-check, with the known prior-error spots flagged for regression
+testing. Chavvah was excluded (just double-reviewed). Cross-checked the
+agents' CRITICAL/MODERATE claims against source before accepting — 3
+were downgraded on inspection (script 4's injunction "splice" is
+contiguous source text, nothing omitted; script 8's cold-open "splice"
+is identical verbatim text in both a book and a conversation file).
+
+VERDICT: 0 fabricated/misattributed quotes across all 8 scripts. Both
+prior known-fixed canon errors confirmed NOT regressed — the Eaters-of-
+Earth vs. Cannibals distinction (scripts 1, 4) and Kasaphescence =
+Mechanimist goddess of metal/order, not a mopango inner-light (script
+7). The four Coda Fates remain a player menu, not single canon (5).
+Self-containment holds on all three standalones.
+
+Corrections applied — 19 edits across 7 scripts:
+- **Script 1 (Resheph):** [CRITICAL] the InheritorGodling "yet lives…"
+  beat was built on a topic-index TRUNCATION ARTIFACT — the in-game
+  sentence is complete ("…yet lives within or outside of the boundaries
+  of the Limen, but no word escapes its borders," InheritorGodling.md:81).
+  The script had reframed it as a dramatic "the line trails off / the
+  Coda will not finish the sentence." Rewrote to quote the full line and
+  drop the false trail-off. [MOD] bracket-misquote "incise the mark on
+  yo[urself…]" → "your body…" (Barathrum.md:324).
+- **Script 2 (Barathrum):** [MOD] "killed by the Seraph for betraying
+  his plan" overstated the corpus — rephrased to the corpus account
+  (died of the rotting tongue; Resheph would not forgive her trespass
+  nor let her return home; Barathrum.md:419,427). [MIN] Euclid quote now
+  starts at the faithful sentence boundary ("It's a prattleplant…").
+- **Script 4 (Spindle):** [MOD] restored the dropped third Putus Templar
+  value to the Murmur's Prayer quote ("…and the total eradication of
+  mutant sapience," MurmursPrayer.md:11). [MIN] restored the dropped
+  "Welcome" to Asphodel's line; [MIN] leading ellipsis on the
+  mid-sentence Barathrum injunction quote.
+- **Script 5 (Brightsheol/Coda):** [MOD] reframed "two figures recount
+  your story" → "one of two figures, which one depending on the path you
+  walked" (the Godling and the Fool are a kill-vs-pacify FORK per wiki
+  canon, not a duo; reframed without importing the precise wiki
+  mechanic). [MOD] scoped the Nephilim "They lived…" quote to its actual
+  source — the Covenant ending (InheritorGodling.md:119-121) — not the
+  universal peace outcome.
+- **Script 6 (Bey Lah):** [MOD] hedged "built more like deer-centaurs"
+  → "they read more like deer-centaurs" (the centaur body-plan is
+  inferred, not stated, in the cited corpus lines; wiki confirms it).
+- **Script 7 (Mopango):** [MOD] "abolished gender" → "set gender aside"
+  in two places (corpus: "a societal relic in which we see no current
+  utility," Agyra.md:248); [MOD] hedged the scale-glow-as-inner-Light
+  claim as the writer's read; [MIN] cold-open "each lives by a motto" →
+  "each seeks" (corpus: "Some of our coterie yet seeketh theirs").
+- **Script 8 (Putus Templar):** [CRITICAL→MIN] dual-attributed
+  "(book/conversation: Templar Domesticant)" → single "(book: …)" (the
+  four Newfather lines are identical verbatim in both sources — not a
+  harmful splice). [CRITICAL→MOD] removed the unsourced gloss "the word
+  means a domesticated servant" → "a name that suggests…". [MOD] §I "one
+  former associate" (pre-asserted Une's §VI ex-Templar reveal) → "one
+  masked warden." [MOD] Oudin "elsewhere as the holder of the outposts"
+  → "in the same prayer" (both possessives are in the one Murmur's
+  Prayer file). [MIN] softened the "reclamation = turning a captive into
+  a Domesticant" causal claim to "a vocabulary of the reclaimed."
+
+Deliberately NOT changed (rationale):
+- **Script 3 (Rebekah):** the "Resheph would not forgive her" account is
+  a properly-attributed Barathrum quote (named speaker + "(hidden
+  conversation: Barathrum)" + disclosed node-split) — corpus-faithful.
+  NOTE a real corpus-vs-wiki divergence: the wiki's published canon says
+  Resheph FORGAVE Rebekah on her deathbed and her offense was theft of
+  the Mark of Death — neither is in our corpus extract. Per strict
+  evidence the script narrates Barathrum's account and does NOT import
+  the wiki version. Left as-is, documented here.
+- Minor paraphrase/style left as acceptable: "young bear" for "bruin"
+  (narration paraphrase), "Grand-Doe" capitalization, the faundren-rhyme
+  final-stanza framing.
+
+Net: all 9 scripts now strict-evidence clean. Committed + pushed.
+
 ### 2026-05-21 — Standalone entity profile: Chavvah, the Tree of Life
 
 User: "plan and implement the script for Chavvah the living city."

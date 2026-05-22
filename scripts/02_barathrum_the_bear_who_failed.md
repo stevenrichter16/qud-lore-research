@@ -24,8 +24,8 @@ candle-dim study under the arch of Grit Gate. Books. A houseplant.
 He is exhausted.]`
 
 There is a candle-dim study under the ruins of Grit Gate. It
-contains a houseplant called Euclid, whom Barathrum introduces
-as *"a prattleplant. It stores every phrase it hears in its
+contains a houseplant called Euclid, whom Barathrum describes:
+*"It's a prattleplant. It stores every phrase it hears in its
 neuroot network, and it mimics speech by flicking its leaves
 against one another. What comes out is gibberish as often as
 not, but even so, it's agreeable company for my nights spent
@@ -151,8 +151,9 @@ more important than his clan-elders. A master machinist.
 > *time, availed me of the orphic truth."*
 
 The master machinist was named Rebekah. She was, in our previous
-episode, the one who would later be killed by the Seraph for
-betraying his plan. In this episode, she is the woman who took a
+episode, the one whose trespass the Seraph would not forgive — who
+would die of the rotting tongue, refused even the chance to return
+home. In this episode, she is the woman who took a
 refugee cub into her workshop and taught him how the world
 actually worked.
 

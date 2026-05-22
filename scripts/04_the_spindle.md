@@ -70,8 +70,8 @@ Asphodel demands a price: convene a council of allied factions, the
 First Council of Omonporch, and appease xem. (If you happen to be
 *Loved* by the Consortium of Phyta, xe folds instantly: *"Oh...
 oh! It's you! You are a dear friend, indeed."*) When the deal is
-struck, Asphodel appoints *you* xer viceroy over the Spindlegrounds,
-welcoming you *"to court, asphodelyte. You serve at my pleasure."*
+struck, Asphodel appoints *you* xer viceroy over the Spindlegrounds:
+*"Welcome to court, asphodelyte. You serve at my pleasure."*
 
 The quest that formalizes this is called *The Earl of Omonporch*,
 and its own gospel-text is wry about what you've done: it records
@@ -135,7 +135,7 @@ long-held hypothesis:
 An elevator. Freight. To and from the vault of heaven. Barathrum
 continues with the history we've traced across this whole series:
 
-> *"in the earliest aurora of our past, the Eaters of Earth were*
+> *"…in the earliest aurora of our past, the Eaters of Earth were*
 > *joined by a great coven of beings that spanned the firmament.*
 > *But the Eaters succumbed to some terrible temptation, and an*
 > *injunction was placed on our world. Since then, the stars were*
@@ -170,7 +170,8 @@ lives.
 To the Putus Templar, the order of zealots, the Spindle is a
 metaphor for purity of lineage. Their values, one book records, are
 *"dedication to a family tree as tall and unbranching as Qud's
-Spindle, complete subjugation of those they consider lesser."*
+Spindle, complete subjugation of those they consider lesser, and the
+total eradication of mutant sapience."*
 *(book: Murmur's Prayer)* The tallest, straightest thing in the
 world becomes the image of a bloodline that admits no branches.
 

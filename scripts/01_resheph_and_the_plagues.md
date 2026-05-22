@@ -136,7 +136,7 @@ his seal:
 > *"As for gaining entrance to the Tomb, Resheph sealed the gates a*
 > *thousand years ago, but there's a flaw in the seal. The ancient*
 > *Mark of Death has been lost to time, but if you were to recover*
-> *it and incise the mark on yo[urself…]"*  
+> *it and incise the mark on your body…"*  
 > — *(conversation: Barathrum)*
 
 Why does a healer-king seal a tomb? What does the Tomb of the
@@ -539,11 +539,13 @@ And one last grim possibility. In the Coda — Qud's hidden ending,
 spoken by a being called the Inheritor Godling — the player can
 hear this line about a future after the events of the game:
 
-> *"It could be that the ancient Resheph yet lives with…"*  
+> *"It could be that the ancient Resheph yet lives within or*
+> *outside of the boundaries of the Limen, but no word escapes its*
+> *borders."*  
 > — *(hidden conversation: InheritorGodling)*
 
-The line trails off. The Coda will not finish the sentence. But
-Barathrum was right: the seraphim transit an ethical manifold
+No word escapes the Limen's borders, so the Coda leaves the
+question open. But Barathrum was right: the seraphim transit an ethical manifold
 much different than our own. And the Coven, on its scale, may
 have been only one cycle late.
 

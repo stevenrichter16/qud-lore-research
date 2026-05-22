@@ -66,8 +66,8 @@ longer than most of Qud's wayfarers."*
 
 So this is the first surprising thing about the hindren. They are
 *not* weak. They are big, strong, antlered, and — for all that
-"deer-people" might suggest a biped — built more like deer-centaurs:
-they *canter* on hooves ("hooves stamp the packed earth," the game
+"deer-people" might suggest a biped — they read more like
+deer-centaurs: they *canter* on hooves ("hooves stamp the packed earth," the game
 notes elsewhere) below a humanoid, arm-bearing torso. They are
 perfectly capable of defending themselves. Their fear is not the
 fear of the helpless. It is a choice — a cultural one — and that

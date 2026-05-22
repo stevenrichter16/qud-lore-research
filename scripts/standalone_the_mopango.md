@@ -38,9 +38,9 @@ plated, digging creatures whose armor scales glow a pale white;
 they are, in one outsider's description, *"contemplative, sociable,
 and mostly peaceful."* *(conversation: Zothom)* They live in the
 deep dark of a tomb by choice, they make their decisions without a
-single leader, they have quietly abolished gender, they build
-wheelchairs for their disabled, and each of them lives by a personal
-motto that it is rude to ask them to explain.
+single leader, they have quietly set gender aside, they build
+wheelchairs for their disabled, and each seeks a personal motto that
+it is rude to ask them to explain.
 
 This is an episode about the mopango — the buried watchers — and
 about what a society looks like when you build it not out of fear,
@@ -123,8 +123,8 @@ Light, mopango or not, can find it.
 When a mopango wishes you well, the blessing is *"May [thou] bathe
 ever in Her light"* — and a delighted mopango is described, in the
 game's own stage directions, as *glowing softly.* *(conversation:
-Agyra)* The pale-white glow of their scales is not just biology in
-the lore's framing; it's the visible sign of the thing they're all
+Agyra)* It's hard not to read that pale-white glow of their scales
+as more than biology — as a visible sign of the thing they're all
 reaching for.
 
 ---
@@ -323,8 +323,8 @@ nothing from you but good questions. And yet they may be the
 clearest picture Caves of Qud offers of a *good* society — not a
 utopia, just a working one, built on a coherent set of choices.
 
-They abolished hierarchy and govern by consensus. They abolished
-gender as a category they found no use for. They build for the
+They abolished hierarchy and govern by consensus. They set gender
+aside as a category they found no use for. They build for the
 bodies their members actually have. They let anyone join who wishes
 to, and they let anyone reach their Light who seeks it. They take on
 the unpaid, painful, unending work of remembering — pressing their
