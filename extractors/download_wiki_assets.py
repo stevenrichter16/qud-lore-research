@@ -97,6 +97,15 @@ ASSETS = {
         "Templar phylactery.png", "The murmurs prayer.png",
         "Warden une.png", "Yd freehold.png", "Q girl.png",
     ],
+    # Standalone entity profile — Chavvah, the living tree-city.
+    "09_chavvah": [
+        "Dyvvrach.png", "Eyn roj.png", "Chiming rock.png",
+        "Glowing soft.png", "Crystalline root.png", "Moon stair.png",
+        "Tzedech.png", "Tikva.png", "Wandering tau.png",
+        "Taunolonger.png", "Still crystal chime.png",
+        "Santalalotze.png", "Slynth.png",
+        "Hexagonal crystal.png", "Crystalline halo.png",
+    ],
 }
 
 

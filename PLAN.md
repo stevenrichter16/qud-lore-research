@@ -332,17 +332,94 @@ Two reasons:
   staineth the sanctity of questioning," Doyoba's "Suffering breedeth
   in still water") and obeys the taboo by refusing to explain them.
   18 downloaded `07_mopango/` assets mapped per section.
+- [x] **Standalone one-off #4: Chavvah, the Tree of Life — One and
+  Many** — written, ~3500 words, ~23 min, fully self-contained; a
+  single ENTITY profile (not a faction). Saved to
+  [`scripts/standalone_chavvah.md`](scripts/standalone_chavvah.md).
+  Thesis: the rare collective consciousness whose deepest act of love
+  is letting a member LEAVE. Chavvah is a sentient crystalline
+  tree-city, "one and many" (Chavvah the many / dyvvrach the one),
+  whose Selves are born holding two *sefirots* — *-then* (what it will
+  become) and *-else* (what it will not). Its chimeling Tau, broken
+  loose by a vision, chooses to "become -else" via the ritual of
+  -elseing; a rootclimber carries her stilled chime down the taproot
+  so she can secede into a waiting "greater mind-haven" — or sever
+  that liaison (player fork, presented as a fork, never single canon).
+  Built strictly on ChavvahPrime / ChavvahFrontChime / Tzedech /
+  Santalalotze / TauNoLonger + the If,Then,Else quest. The Kabbalah
+  reading (keter / sefirot / Tree of Life, Chavvah = Eve) framed as
+  the script's reading of real in-game terms. Visuals: 15 `09_chavvah/`
+  assets mapped per section.
 - [ ] Future / bonus candidates: The Mechanimist Faith (scripture
   deep-dive), The Coven & Folk Clock, "How Qud Generates Its Own
   History" (M6 synthesis as a script), Haddas the tree-mayor of Ezra,
-  the Putus Templar, character studies (Q Girl, Hortensa, Otho),
-  Chavvah the living city, Kyakukya/Oboroqoru.
+  character studies (Q Girl, Hortensa, Otho), Kyakukya/Oboroqoru.
 
 ---
 
 ## Implementation log
 
 Append each session. Newest at top. Date in absolute form.
+
+### 2026-05-21 — Standalone entity profile: Chavvah, the Tree of Life
+
+User: "plan and implement the script for Chavvah the living city."
+
+- Investigated the corpus first: ChavvahPrime (the main dialogue —
+  physiology, Tau, the slynth, the -elseing ritual), ChavvahFrontChime
+  (the chiming rock you touch to attune), Tzedech (the alien chime),
+  Santalalotze (the symbiote — "economic symbiosis"), TauNoLonger (Tau
+  after severance, five branches), and the If,Then,Else quest.
+- Thesis: a collective consciousness whose deepest act of love is
+  letting a member LEAVE — the inverse of the usual hive-mind horror.
+  Completes a four-part thematic set on the individual vs. the
+  collective: Bey Lah erases the one who leaves (fear), the Putus
+  Templar erase the self into devotion (codified cruelty), the mopango
+  let each self keep its own credo (care), and Chavvah — most radically
+  — lets a self secede.
+- Wrote a self-contained 7-section profile (~3500 words, ~23 min):
+  Cold Open → The Sentient Place → Soft/Twofirm/Keter (the physiology)
+  → The Chimes → Joining → The One Who Leaves (Tau) → The Ritual of
+  -Elseing → The Question. The Kabbalah reading (keter / sefirot / Tree
+  of Life; Chavvah = Hebrew Eve) is presented as the script's reading
+  of real in-game terms, hedged — same handling as Episode 1's "Siach."
+- STANDALONE discipline: the corpus's Barathrum/starclimb branch and
+  the Gyredream/Gyre node are deliberately omitted; the "future shock"
+  that breaks Tau loose is conveyed generically (no proper nouns). The
+  collective Tau leaves FOR (canonically tied to Ptoh) is kept generic
+  as "a greater mind-haven"; Ptoh is never named. Tau's fate is a
+  player FORK (free her liaison vs. sever it), never a single canon.
+- Review pass 1 (self, gap-coverage, line-by-line vs. corpus): caught
+  and fixed TWO node-splices before they shipped — the cold-open quote
+  (had joined `Name`:119 + `ManySelves`:127) and the §II Twofirm quote
+  (had joined `Physiology`:135 tail + `Physiology2`:143). Re-cut both
+  to single-node boundaries. Softened a §I overclaim (an invented
+  prescriptive rule about which name to use) to the corpus-observable
+  fact that the player addresses it both ways. Added a sourced capstone
+  — the quest's Hagiograph "Beauty in subtraction! Pruner =name= cut
+  the Tree of Life to a more aesthetic form" (If__Then__Else.md:13),
+  attributed as the player-legend template.
+- Review pass 2 (background cold-eye general-purpose agent, corpus +
+  live-wiki canon cross-check — same review type that caught the
+  Kasaphescence error on the mopango): verdict 0 CRITICAL / 0 MODERATE,
+  NO EDITS REQUIRED. Independently confirmed every block quote is
+  verbatim from a single corpus node (validating the pass-1 splice
+  fixes), the physiology is faithful, the player-fork is a fork, the
+  body leaks no Resheph/Spindle/Barathrum/Gyre/Ptoh, the Dyvvrach
+  framing is consistent with wiki canon ("one of the chimes… mayor…
+  questgiver" — the script's one-and-many framing does not contradict
+  it), and the Kabbalah reading is properly hedged as interpretation.
+- Downloaded 15 Chavvah assets into `corpus/visual_assets/09_chavvah/`
+  (Dyvvrach, Eyn roj, the chiming rock, glowing soft, the crystalline
+  root/taproot, Moon Stair, Tzedech, Tikva, Wandering tau, Taunolonger,
+  the still crystal chime, Santalalotze, slynth, hexagonal crystal,
+  crystalline halo). All 15 confirmed via the MediaWiki API before
+  download. Visual table mapped per section.
+
+- **Standalone library now: 4 one-offs** (Bey Lah / fear, Mopango /
+  care, Putus Templar / codified cruelty, Chavvah / the collective that
+  lets a self go) + the 5-part Resheph series. **124 visual assets
+  across 9 episode folders.**
 
 ### 2026-05-20 (cont.) — Standalone faction profile: the Putus Templar
 

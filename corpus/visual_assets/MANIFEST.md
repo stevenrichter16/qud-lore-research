@@ -160,3 +160,23 @@ Regenerate with `python3 extractors/download_wiki_assets.py`.
 | `Warden une.png` | 1 KB | [Warden une.png](https://wiki.cavesofqud.com/wiki/File:Warden_une.png) |
 | `Yd freehold.png` | 1 KB | [Yd freehold.png](https://wiki.cavesofqud.com/wiki/File:Yd_freehold.png) |
 | `Q girl.png` | 1 KB | [Q girl.png](https://wiki.cavesofqud.com/wiki/File:Q_girl.png) |
+
+## 09_chavvah
+
+| File | Size | Wiki source |
+|---|---:|---|
+| `Dyvvrach.png` | 1 KB | [Dyvvrach.png](https://wiki.cavesofqud.com/wiki/File:Dyvvrach.png) |
+| `Eyn roj.png` | 1 KB | [Eyn roj.png](https://wiki.cavesofqud.com/wiki/File:Eyn_roj.png) |
+| `Chiming rock.png` | 1 KB | [Chiming rock.png](https://wiki.cavesofqud.com/wiki/File:Chiming_rock.png) |
+| `Glowing soft.png` | 1 KB | [Glowing soft.png](https://wiki.cavesofqud.com/wiki/File:Glowing_soft.png) |
+| `Crystalline root.png` | 1 KB | [Crystalline root.png](https://wiki.cavesofqud.com/wiki/File:Crystalline_root.png) |
+| `Moon stair.png` | 1 KB | [Moon stair.png](https://wiki.cavesofqud.com/wiki/File:Moon_stair.png) |
+| `Tzedech.png` | 1 KB | [Tzedech.png](https://wiki.cavesofqud.com/wiki/File:Tzedech.png) |
+| `Tikva.png` | 1 KB | [Tikva.png](https://wiki.cavesofqud.com/wiki/File:Tikva.png) |
+| `Wandering tau.png` | 1 KB | [Wandering tau.png](https://wiki.cavesofqud.com/wiki/File:Wandering_tau.png) |
+| `Taunolonger.png` | 1 KB | [Taunolonger.png](https://wiki.cavesofqud.com/wiki/File:Taunolonger.png) |
+| `Still crystal chime.png` | 1 KB | [Still crystal chime.png](https://wiki.cavesofqud.com/wiki/File:Still_crystal_chime.png) |
+| `Santalalotze.png` | 1 KB | [Santalalotze.png](https://wiki.cavesofqud.com/wiki/File:Santalalotze.png) |
+| `Slynth.png` | 1 KB | [Slynth.png](https://wiki.cavesofqud.com/wiki/File:Slynth.png) |
+| `Hexagonal crystal.png` | 1 KB | [Hexagonal crystal.png](https://wiki.cavesofqud.com/wiki/File:Hexagonal_crystal.png) |
+| `Crystalline halo.png` | 1 KB | [Crystalline halo.png](https://wiki.cavesofqud.com/wiki/File:Crystalline_halo.png) |
