@@ -372,8 +372,21 @@ Append each session. Newest at top. Date in absolute form.
   are hedged as the game leaves them. Flagged for the agent: whether
   "Oudin" is the supreme Templar leader or a regional commander (§V
   currently says "the figure they all serve"). Review pass 2: cold-eye
-  agent with wiki canon-check (running at time of writing); corrections
-  to follow before commit.
+  agent with wiki canon-check — verdict NEEDS-EDITS (minor), no
+  misquotes, no canon contradictions. The agent CONFIRMED both big
+  inferences against the wiki: Une *is* canonically an ex-Putus-Templar
+  Murmur, and the hurdy-gurdy/Murmur's-instrument link is real — so the
+  script was over-cautious. 3 fixes applied: softened §IV's
+  "reclamation = capture-and-remake" overclaim to corpus-grounded
+  language (the canonical newfather/newchild/gentling-mask mechanic is
+  wiki-only, NOT in our corpus, so per the strict rule it stayed OUT of
+  the body); scoped §V's "Oudin" to what the corpus actually says (a
+  distant authority, nature unspecified); removed a leftover visual-cue
+  placeholder. Result: READY. Committed + pushed (`3664659`).
+
+- **Standalone library now: 3 faction one-offs** (Bey Lah / fear,
+  Mopango / care, Putus Templar / codified cruelty) + the 5-part
+  Resheph series. 109 visual assets across 8 episode folders.
 
 ### 2026-05-20 (cont.) — Comprehensive corpus+WIKI canon review of both one-offs
 
